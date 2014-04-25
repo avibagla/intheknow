@@ -10,6 +10,7 @@ var handlebars = require('express3-handlebars');
 
 //Routes
 var index = require('./routes/index');
+var login = require('./routes/login')
 //Follow route format above.
 
 
@@ -38,6 +39,7 @@ if ('development' == app.get('env')) {
 
 //The routes
 app.get('/', index.view);
+app.get('/login', login.view);
 
 
 
