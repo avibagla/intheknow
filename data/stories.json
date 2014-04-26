@@ -1,0 +1,34 @@
+{
+	"stories": [
+
+		{ 
+			"title": "Twitter redesigns it's homepage",
+			"type":"tech",
+			"details": [
+				{"text": "Looks a lot like Facebook"},
+				{"text": "An attempt to reach out to new users used to Facebook"},
+				{"text": "Will be rolled out to all users soon"}
+			],
+			"questions":[
+				{"text": "Is this revolutionary?"},
+				{"text": "Do you like the Design?"},
+				{"text": "I like Popsicles"}
+			]
+		},
+		{ 
+			"title": "Twitter redesigns it's homepage",
+			"type":"politics",
+			"details": [
+				{"text": "Looks a lot like Facebook"},
+				{"text": "An attempt to reach out to new users used to Facebook"},
+				{"text": "Will be rolled out to all users soon"}
+			],
+			"questions":[
+				{"text": "Is this revolutionary?"},
+				{"text": "Do you like the Design?"},
+				{"text": "I like Popsicles"}
+			]
+		}
+
+	]
+}

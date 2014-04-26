@@ -1,0 +1,34 @@
+html, body {
+	font-family: 'PT Sans Narrow', 'sans-serif';
+}
+
+#companyName{
+	text-align: center;
+}
+
+.frame{
+	width:100%;
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+
+.newsTitle{
+	text-align: center;
+	text-decoration: none;
+}
+.type{
+	float: left;
+	width: 15px;
+	height: 60px;
+}
+
+.tech{
+	background-color: blue;
+}
+
+.politics{
+	background-color: red;
+}
+
