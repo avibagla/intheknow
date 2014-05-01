@@ -4,16 +4,6 @@
   <head>
     
     {{>meta-default-partial}}
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Custom styles for this template -->
     <link href="/css/carousel.css" rel="stylesheet">
   </head>
       
@@ -22,35 +12,14 @@
       {{#each stories}}
         
         <div class = "frame">
-        <hr>
           <a href= "#" class="newsItem">
             <div class= "type {{type}}"></div>
             <h3 class = "newsTitle">{{title}}</h3>
           </a>
         </div>
-
-  <div class="frame">
-    <div class="wishlist-entry">
-      
-      <div class="swipe-options">
-        <div class="option"> 
-          <span class="glyphicon glyphicon-remove"></span></div>
-          <div class="option">
-            <a href="http://umami.avibagla.com/pasteats-editcreate/009c7fc75f7d082f23f235fd9a0696d53ead989d"><span class="glyphicon glyphicon-pencil"></span></a>
-          </div>
-        </div>
-
-      <a class="place" >
-             <!-- details of each wishlist tile go here -->
-            <div class="photo">       <div class="photowrapper"><img id="img009c7fc75f7d082f23f235fd9a0696d53ead989d" src="./Umami_files/P1020809.JPG"></div>    </div>    <div title=" This is an entry in your wishlist" rel="tooltip" class="left-info open">      <ul>           <li>Blue Ribbon</li>        <li><span class="address">97 Sullivan St, New York, NY, United States</span></li>        <li></li>      </ul>    </div>    <div title="These are details about restaraunts" rel="tooltip" class="right-info">      <ul>        <li><span style="color: green">open</span></li>        <li>$$$</li>        <li>4</li>      </ul>    </div></a>
-
-
-      </div>
-    </div>
         
 
       {{/each}}
-      <hr>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>

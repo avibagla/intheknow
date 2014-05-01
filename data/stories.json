@@ -4,6 +4,9 @@
 		{ 
 			"title": "Twitter redesigns it's homepage",
 			"type":"tech",
+			"link":"http://dadada",
+			"image": "blah.jpg",
+			"summary":"summa",
 			"details": [
 				{"text": "Looks a lot like Facebook"},
 				{"text": "An attempt to reach out to new users used to Facebook"},
