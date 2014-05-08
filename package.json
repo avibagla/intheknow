@@ -2,7 +2,7 @@
   "name": "In-The-Know",
   "description": "Homepage for In The Know",
   "version": "0.0.1",
-  "author":"Avi Bagla",
+  "author":"Avi Bagla, Shailesh Tainwala",
 
   "private": true,
   "scripts": {

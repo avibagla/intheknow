@@ -16,8 +16,5 @@ exports.viewNewsItem = function(req, res){
 	console.log(stories);
 	storyID = findIndexByAttr(stories.stories, 'uniqueID', newsId);
 	story = stories.stories[storyID];
-
-	console.log(story);
-
 	res.render('newsItem', story);
 }
