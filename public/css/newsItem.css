@@ -1,0 +1,40 @@
+
+.newsTitle{
+	text-align: center;
+	font-size: 1.8em;
+
+}
+
+.info{
+	padding-top: 10px;
+	font-family: 'PT Serif', serif;
+
+}
+
+.summary{
+	font-size: .8em;
+}
+
+a{
+	text-decoration: none;
+}
+
+.details{
+	
+	background-color: #f9f9f9;
+}
+
+.border{
+	width: 100%;
+	height: 2px;
+	background-color: #111111;
+	
+}
+
+.tech{
+	background-color: #2222ff;
+}
+
+.politics{
+	background-color: #dd2222;
+}

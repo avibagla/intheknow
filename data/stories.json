@@ -2,12 +2,12 @@
 	"stories": [
 
 		{ 
-			"title": "Twitter redesigns it's homepage",
+			"title": "Twitter redesigns its homepage",
 			"uniqueID": "1",
 			"type":"tech",
 			"link":"http://dadada",
 			"image": "blah.jpg",
-			"summary":"summa",
+			"summary":"In a very foreseen occurrence, Twitter, the home of famous people like Helen Keller, Adolf Hitler, and DadJokes, decided to completely revamp their design in an attempt to satisfy their investors on wall street. What? I know.",
 			"details": [
 				{"text": "Looks a lot like Facebook"},
 				{"text": "An attempt to reach out to new users used to Facebook"},
@@ -20,7 +20,7 @@
 			]
 		},
 		{ 
-			"title": "Twitter redesigns it's homepage",
+			"title": "Twitter redesigns its homepage",
 			"type":"politics",
 			"uniqueID":"2",
 			"details": [

@@ -8,18 +8,29 @@
 </head>
 
 <body>
+	<div class="container">
+			<h3 class="newsTitle"><a href="{{link}}">{{title}}</a></h3>
+			<div class="border {{type}}"></div>
 	
+			<div class="info">
+				<p class="summary">{{summary}}</p>
+
+				<div class="details">
+					<ul class="list-unstyled">
+						{{#each details}}
+							<li class="detail">{{text}}</li>
+						{{/each}}
+					</ul>
+				</div>
+				<h5 class="questionTitle">Questions</h5>
+				<ul class="questions list-unstyled">
+					{{#each questions}}
+						<li class="question">{{text}}</li>
+					{{/each}}
+				</ul>
+			</div>
+
+	</div>	
 
 </body>
 </html>
-
-
-{{title}} <br>
-{{type}} <br>
-{{link}} <br>
-{{summary}} <br>
-
-
-{{#each details}}
-	{{text}} <br>
-{{/each}}
