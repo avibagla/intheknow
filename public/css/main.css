@@ -33,7 +33,14 @@ a, a:hover{
 	background-color: blue;
 }
 
-.politics{
+.stanford, .Stanford{
 	background-color: red;
 }
 
+.opinions{
+	background-color: black;
+}
+
+.sports{
+	background-color: green;
+}
