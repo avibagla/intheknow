@@ -5,6 +5,8 @@
 	<title>{{title}}</title>
 
 	<link rel="stylesheet" href="/css/newsItem.css">
+	<!--Slider CSS-->
+	<link rel="stylesheet" href="/css/slider.css">
 </head>
 
 <body>
@@ -27,11 +29,20 @@
 				<ul class="questions list-unstyled">
 					{{#each questions}}
 						<li class="question">{{text}}</li>
+						<div class="slider slider-horizontal" id= "GC" style="width: 314px;">
+							
+						</div>
 					{{/each}}
 				</ul>
 			</div>
 
 	</div>	
-
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+	<script src="/js/modernizr.js"></script>
+	<script src="/js/bootstrap-slider.js"></script>
+	<script src="/js/newsItem.js"></script>
+	
 </body>
 </html>
