@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+	{{> meta-default-partial}}
+	<title>Creating a Question for {{title}}</title>
+	<link rel="stylesheet" href="/css/createQuestion.css">
+</head>
+<body>
+	<div class="container">
+		<h3 class="newsTitle"><a href="{{link}}">{{title}}</a></h3>
+		<div class="border {{type}}"></div>
+		<h4>Create a Question</h4>
+		<h6 id= "showQuestions">Show Current Questions</h6>
+		<div id="currentQuestions">
+			<ul class="list-unstyled">
+			{{#each questions}}
+				<li class="question">{{text}}</li>
+
+			{{/each}}
+			</ul>
+		</div>
+	</div>
+</body>
+
+{{>scripts}}
+<script src="/js/createQuestion.js"></script>
+
+
+</html>

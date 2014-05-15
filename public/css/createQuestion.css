@@ -1,0 +1,16 @@
+
+.newsTitle{
+	text-align: center;
+	font-size: 1.8em;
+}
+
+.border{
+	width: 100%;
+	height: 2px;
+	background-color: #111111;
+	
+}
+
+#currentQuestions{
+	display: none;
+}
