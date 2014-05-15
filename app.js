@@ -12,6 +12,7 @@ var handlebars = require('express3-handlebars');
 var index = require('./routes/index');
 var login = require('./routes/login');
 var news = require('./routes/news')
+var questions = require('./routes/questions')
 //Follow route format above.
 
 
@@ -20,7 +21,7 @@ var app = express();
 
 
 //Setting up Environments
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 3001);
 app.set('views', path.join(__dirname, 'views'));
 app.engine('handlebars', handlebars());
 app.set('view engine', 'handlebars');
@@ -42,6 +43,7 @@ if ('development' == app.get('env')) {
 app.get('/', index.view);
 app.get('/login', login.view);
 app.get('/news/:id', news.viewNewsItem);
+app.get('/add/:id', questions.createQuestion);
 
 
 

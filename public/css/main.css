@@ -19,6 +19,13 @@ a, a:hover{
 	text-decoration: none;
 }
 
+.questionAdd{
+	color: black;
+}
+h3{
+	text-align: center;
+}
+
 .newsTitle{
 	text-align: center;
 	text-decoration: none;

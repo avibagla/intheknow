@@ -22,6 +22,7 @@ a{
 .details{
 	
 	background-color: #f9f9f9;
+	padding: 2px;
 }
 
 .border{
@@ -37,4 +38,45 @@ a{
 
 .politics{
 	background-color: #dd2222;
+}
+
+.buttons{
+	width: 100%;
+	height: 100px;
+	padding: 3px;
+}
+
+.buttons div{
+	font-size: 2em;
+	font-family: 'PT Sans Narrow', sans-serif;
+	text-align: center;
+	line-height: 100px;
+}
+
+.yes, .no{
+	width: 48%;
+	height: 100%;
+	float: left;
+	margin: 1%;
+
+}
+
+
+
+.questions{
+	margin-bottom: 3px;
+}
+
+.yes{
+	background-color: #05E8D9;
+}
+
+.no{
+	background-color: #E80514;
+}
+
+.optionText{
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
 }
