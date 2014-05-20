@@ -35,7 +35,14 @@ exports.submitQuestion = function(req, res){
 	
 	storyID = findIndexByAttr(stories.stories, 'uniqueID', newsId);
 	story = stories.stories[storyID];
-	story['questions'].push({"text": qs, "yes": 0, "no": 0});
+	maxIndex = 0;
+	length = story['questions'].length;
+	for(i=0; i<length; i++)
+	{
+		if(story['questions'][i]['index'] > maxIndex)
+			maxIndex = story['questions'][i]['index'];
+	}
+	story['questions'].push({"index": maxIndex+1, "text": qs, "yes": 0, "no": 0});
 	fs.writeFileSync('data/stories.json', JSON.stringify(stories, null, 4));
 
 	var news = require('./news')
