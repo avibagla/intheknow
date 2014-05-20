@@ -80,3 +80,7 @@ a{
 	vertical-align: middle;
 	line-height: normal;
 }
+
+.hiddenText{
+	display: none;
+}

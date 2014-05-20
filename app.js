@@ -11,8 +11,9 @@ var handlebars = require('express3-handlebars');
 //Routes
 var index = require('./routes/index');
 var login = require('./routes/login');
-var news = require('./routes/news')
-var questions = require('./routes/questions')
+var news = require('./routes/news');
+var questions = require('./routes/questions');
+var votes = require('./routes/votes');
 //Follow route format above.
 
 
@@ -46,6 +47,7 @@ app.get('/login', login.view);
 app.get('/news/:id', news.viewNewsItem);
 app.get('/add/:id', questions.createQuestion);
 app.get('/submitQs/:id', questions.submitQuestion);
+app.get('/updateVotes', votes.update);
 
 
 
