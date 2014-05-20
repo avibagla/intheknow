@@ -13,9 +13,9 @@
 				{"text": "The six selections tie a program record and lead the Pac-12."}
 			],
 			"questions":[
-				{"text": "Which player will have the best NFL career?"},
-				{"text": "Why do you think Shayne Skov went undrafted?"},
-				{"text": "Which player fits best on his new team?"}
+				{"text": "Which player will have the best NFL career?", "yes": 0, "no": 0},
+				{"text": "Why do you think Shayne Skov went undrafted?", "yes": 0, "no": 0},
+				{"text": "Which player fits best on his new team?", "yes": 0, "no": 0}
 			]
 		},
 		{ 
@@ -30,9 +30,9 @@
 				{"text": "Meyer is scheduled to be demolished the following summer."}
 			],
 			"questions":[
-				{"text": "Will you miss Meyer Library?"},
-				{"text": "What do you think of the 24-hour study room moving to Lathrop?"},
-				{"text": "What's your favorite study spot on campus?"}
+				{"text": "Will you miss Meyer Library?", "yes": 0, "no": 0},
+				{"text": "What do you think of the 24-hour study room moving to Lathrop?", "yes": 0, "no": 0},
+				{"text": "What's your favorite study spot on campus?", "yes": 0, "no": 0}
 			]
 		},
 		{ 
@@ -46,8 +46,8 @@
 				{"text": "While Stanford has eliminated the physical barrier for lower-income individuals to study abroad, the expensive spending culture prevalent in many study abroad programs remains in Stanford’s. Simple remedies do exist that could mitigate this, though."}
 			],
 			"questions":[
-				{"text": "Does the Stanford community discuss socioeconomic disparities enough?"},
-				{"text": "What was the economic impact on you personally of studying abroad?"}
+				{"text": "Does the Stanford community discuss socioeconomic disparities enough?", "yes": 0, "no": 0},
+				{"text": "What was the economic impact on you personally of studying abroad?", "yes": 0, "no": 0}
 			]
 		},
 		{ 
@@ -63,9 +63,9 @@
 				{"text": "Stanford has won at least one national title every year for the last 38 years"}
 			],
 			"questions":[
-				{"text": "What Stanford team will win the next championship?"},
-				{"text": "How long do you think the streak will last?"},
-				{"text": "Can the women's water polo team repeat next year as champions?"}
+				{"text": "What Stanford team will win the next championship?", "yes": 0, "no": 0},
+				{"text": "How long do you think the streak will last?", "yes": 0, "no": 0},
+				{"text": "Can the women's water polo team repeat next year as champions?", "yes": 0, "no": 0}
 			]
 		},
 		{
@@ -81,9 +81,9 @@
 				{"text": "The majority of the campus will be \"back office\" space for administrators"}
 			],
 			"questions":[
-				{"text": "Does this affect Stanford's main campus?"},
-				{"text": "Is this good for Redwood City?"},
-				{"text": "Will Stanford free up space on main campus, or simply expand administrative staff?"}
+				{"text": "Does this affect Stanford's main campus?", "yes": 0, "no": 0},
+				{"text": "Is this good for Redwood City?", "yes": 0, "no": 0},
+				{"text": "Will Stanford free up space on main campus, or simply expand administrative staff?", "yes": 0, "no": 0}
 			]
 		}
 	]
