@@ -19,20 +19,20 @@
                 {
                     "index": 1,
                     "text": "Which player will have the best NFL career?",
-                    "yes": 14,
-                    "no": 3
+                    "yes": 80,
+                    "no": 33
                 },
                 {
                     "index": 2,
                     "text": "Why do you think Shayne Skov went undrafted?",
-                    "yes": 3,
-                    "no": 4
+                    "yes": 115,
+                    "no": 42
                 },
                 {
                     "index": 3,
                     "text": "Which player fits best on his new team?",
-                    "yes": 9,
-                    "no": 4
+                    "yes": 71,
+                    "no": 76
                 }
             ]
         },
@@ -55,20 +55,20 @@
                 {
                     "index": 1,
                     "text": "Will you miss Meyer Library?",
-                    "yes": 0,
-                    "no": 0
+                    "yes": 3,
+                    "no": 1
                 },
                 {
                     "index": 2,
                     "text": "What do you think of the 24-hour study room moving to Lathrop?",
-                    "yes": 0,
-                    "no": 0
+                    "yes": 1,
+                    "no": 3
                 },
                 {
                     "index": 3,
                     "text": "What's your favorite study spot on campus?",
-                    "yes": 0,
-                    "no": 0
+                    "yes": 10,
+                    "no": 24
                 }
             ]
         },
@@ -172,8 +172,8 @@
                 {
                     "index": 3,
                     "text": "Will Stanford free up space on main campus, or simply expand administrative staff?",
-                    "yes": 0,
-                    "no": 0
+                    "yes": 3,
+                    "no": 1
                 }
             ]
         }

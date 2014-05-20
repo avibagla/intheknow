@@ -61,6 +61,13 @@ a{
 
 }
 
+.yesClicked, .noClicked{
+	width: 48%;
+	height: 100%;
+	float: left;
+	margin: 1%;
+
+}
 
 
 .questions{
@@ -72,6 +79,14 @@ a{
 }
 
 .no{
+	background-color: #E80514;
+}
+
+.yesClicked{
+	background-color: #05E8D9;
+}
+
+.noClicked{
 	background-color: #E80514;
 }
 

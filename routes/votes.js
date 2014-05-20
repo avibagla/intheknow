@@ -39,6 +39,6 @@ exports.update = function(req, res) {
 
 	fs.writeFileSync('data/stories.json', JSON.stringify(stories, null, 4));
 
-	res.writeHead(200, {"Content-Type": "text/plain"});
-    res.end("abc");
+	res.setHeader('Content-Type', 'application/json');
+    res.end(JSON.stringify({ "yes": question['yes'], "no": question['no'] }));
 }
