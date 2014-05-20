@@ -11,6 +11,13 @@
 		<h3 class="newsTitle"><a href="{{link}}">{{title}}</a></h3>
 		<div class="border {{type}}"></div>
 		<h4>Create a Question</h4>
+		<!--Shailesh Start-->
+		<form name="newQs" action="/submitQs/{{uniqueID}}" method="get">
+		<textarea name="questionText" cols="50" rows="10">Type your new question here
+		</textarea>
+		<input type="submit"/>
+		</form>
+		<!--Shailesh End-->
 		<h6 id= "showQuestions">Show Current Questions</h6>
 		<div id="currentQuestions">
 			<ul class="list-unstyled">

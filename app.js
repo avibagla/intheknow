@@ -33,6 +33,7 @@ app.use(express.methodOverride());
 app.use(express.cookieParser('pink unicorns are beautiful'));
 app.use(app.router);
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.bodyParser());
 
 // development only
 if ('development' == app.get('env')) {
@@ -44,6 +45,7 @@ app.get('/', index.view);
 app.get('/login', login.view);
 app.get('/news/:id', news.viewNewsItem);
 app.get('/add/:id', questions.createQuestion);
+app.get('/submitQs/:id', questions.submitQuestion);
 
 
 
