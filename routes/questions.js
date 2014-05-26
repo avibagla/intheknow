@@ -16,6 +16,12 @@ exports.createQuestion = function(req, res){
 	storyID = findIndexByAttr(stories.stories, 'uniqueID', newsId);
 	story = stories.stories[storyID];
 	console.log(story);
+	//temp
+	var a = story['questions'][0]['yes'] + story['questions'][0]['no'] + 3
+	console.log("YES:"+story['questions'][0]['yes']);
+	console.log("NO:"+story['questions'][0]['no']);
+	console.log("a="+a);
+	//endTemp
 	res.render('createQuestions', story);
 }
 
@@ -29,8 +35,15 @@ exports.submitQuestion = function(req, res){
 	
 	storyID = findIndexByAttr(stories.stories, 'uniqueID', newsId);
 	story = stories.stories[storyID];
-	story['questions'].push({"text": qs});
-	fs.writeFileSync('data/stories.json', JSON.stringify(stories));
+	maxIndex = 0;
+	length = story['questions'].length;
+	for(i=0; i<length; i++)
+	{
+		if(story['questions'][i]['index'] > maxIndex)
+			maxIndex = story['questions'][i]['index'];
+	}
+	story['questions'].push({"index": maxIndex+1, "text": qs, "yes": 0, "no": 0});
+	fs.writeFileSync('data/stories.json', JSON.stringify(stories, null, 4));
 
 	var news = require('./news')
 	news.viewNewsItem(req, res);
