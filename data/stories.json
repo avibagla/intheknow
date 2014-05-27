@@ -166,19 +166,49 @@
                 {
                     "index": 1,
                     "text": "Does this affect Stanford's main campus?",
-                    "yes": 1,
+                    "yes": 2,
                     "no": 0
                 },
                 {
                     "index": 2,
                     "text": "Is this good for Redwood City?",
-                    "yes": 0,
-                    "no": 0
+                    "yes": 1,
+                    "no": 1
                 },
                 {
                     "index": 3,
                     "text": "Will Stanford free up space on main campus, or simply expand administrative staff?",
-                    "yes": 4,
+                    "yes": 5,
+                    "no": 1
+                },
+                {
+                    "index": 4,
+                    "text": "Will it all be okay?",
+                    "yes": 13,
+                    "no": 3
+                },
+                {
+                    "index": 5,
+                    "text": "Will it all be okay?",
+                    "yes": 2,
+                    "no": 1
+                },
+                {
+                    "index": 6,
+                    "text": "Will it all be okay?",
+                    "yes": 1,
+                    "no": 1
+                },
+                {
+                    "index": 7,
+                    "text": "Will it all be okay?",
+                    "yes": 1,
+                    "no": 1
+                },
+                {
+                    "index": 8,
+                    "text": "Will it all be okay?",
+                    "yes": 1,
                     "no": 1
                 }
             ]
