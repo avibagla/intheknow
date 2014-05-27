@@ -4,6 +4,10 @@
 	font-size: 1.8em;
 }
 
+h4{
+	text-align: center;
+}
+
 .border{
 	width: 100%;
 	height: 2px;
@@ -13,4 +17,8 @@
 
 #currentQuestions{
 	display: none;
+}
+
+.btn{
+	margin: auto;
 }

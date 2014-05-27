@@ -8,5 +8,6 @@ function initializePage(){
 	$('#showQuestions').click(function(){
 		$('#currentQuestions').fadeToggle('slow', 'linear');
 	});
+	$('textarea').val('');
 
 }
