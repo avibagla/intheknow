@@ -11,7 +11,7 @@ function initializePage(){
 	$('.yes').click(function(){
 		var qsNumber = this.getAttribute("qsNumber");
 		var uniqueID = $('#uniqueID').attr("v");
-		if($.inArray(qsNumber, clickedQuestions) == -1) return;
+		if($.inArray(qsNumber, clickedQuestions) != -1) return;
 		//http://api.jquery.com/attribute-equals-selector/
 		//console.log("OuterThis"+this.innerHTML);
 		$.ajax({
@@ -47,7 +47,7 @@ function initializePage(){
 		var qsNumber = this.getAttribute("qsNumber");
 		var uniqueID = $('#uniqueID').attr("v")
 
-		if($.inArray(qsNumber, clickedQuestions) == -1) return;
+		if($.inArray(qsNumber, clickedQuestions) != -1) return;
 		//http://api.jquery.com/attribute-equals-selector/
 		$.ajax({
 			url: "/updateVotes",
