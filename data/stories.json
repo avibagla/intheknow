@@ -97,6 +97,12 @@
                     "yes": 1,
                     "no": 5
                 },
+                {
+                    "index": 3,
+                    "text": "What is it like to be abroad?",
+                    "yes": 0,
+                    "no": 0
+                }
             ]
         },
         {
@@ -160,7 +166,7 @@
                 {
                     "index": 1,
                     "text": "Does this affect Stanford's main campus?",
-                    "yes": 0,
+                    "yes": 1,
                     "no": 0
                 },
                 {
@@ -172,7 +178,7 @@
                 {
                     "index": 3,
                     "text": "Will Stanford free up space on main campus, or simply expand administrative staff?",
-                    "yes": 3,
+                    "yes": 4,
                     "no": 1
                 }
             ]

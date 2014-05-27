@@ -42,7 +42,7 @@ exports.submitQuestion = function(req, res){
 		if(story['questions'][i]['index'] > maxIndex)
 			maxIndex = story['questions'][i]['index'];
 	}
-	story['questions'].push({"index": maxIndex+1, "text": qs, "yes": 0, "no": 0});
+	story['questions'].push({"index": maxIndex+1, "text": qs, "yes": 1, "no": 1}); //using a LaPlace to force a probability
 	fs.writeFileSync('data/stories.json', JSON.stringify(stories, null, 4));
 
 	var news = require('./news')
