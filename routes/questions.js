@@ -45,7 +45,5 @@ exports.submitQuestion = function(req, res){
 	story['questions'].push({"index": maxIndex+1, "text": qs, "yes": 1, "no": 1}); //using a LaPlace to force a probability
 	fs.writeFileSync('data/stories.json', JSON.stringify(stories, null, 4));
 
-	var news = require('./news')
-	news.viewNewsItem(req, res);
-
+	res.redirect('/news/' + newsId);
 }
