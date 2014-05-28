@@ -4,6 +4,7 @@
             "title": "Six Stanford football players drafted; Skov signs with 49ers as free agent",
             "category": "sports",
             "uniqueID": "0",
+            "source": "Stanford Daily",
             "link": "http://www.stanforddaily.com/2014/05/10/six-stanford-football-players-drafted-skov-signs-with-49ers-as-free-agent/",
             "image": "http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/DSC_8689LuisAguilar-300x223.jpg",
             "summary": "Six Cardinal football players were picked in the 2014 NFL Draft on Friday and Saturday.",
@@ -40,6 +41,7 @@
             "title": "New Lathrop Library to host Meyer's services",
             "category": "stanford",
             "uniqueID": "1",
+            "source": "Stanford Daily",
             "link": "http://www.stanforddaily.com/2014/05/09/lathrop-library-to-replace-meyer/",
             "image": "http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/Meyer-300x199.jpg",
             "summary": "Lathrop Library is currently being renovated to replace Meyer Library.",
@@ -76,38 +78,39 @@
             "title": "The economic disparities of being abroad",
             "category": "opinions",
             "uniqueID": "2",
+            "source": "Stanford Daily",
             "link": "http://www.stanforddaily.com/2014/05/11/the-economic-disparities-of-being-abroad/",
             "image": "",
             "summary": "A student at Stanford University shares his thoughts on socioeconomic status in study abroad programs.",
             "details": [
                 {
-                    "text": "While Stanford has eliminated the physical barrier for lower-income individuals to study abroad, the expensive spending culture prevalent in many study abroad programs remains in Stanford�s. Simple remedies do exist that could mitigate this, though."
+                    "text": "While Stanford has eliminated the physical barrier for lower-income individuals to study abroad, the expensive spending culture prevalent in many study abroad programs remains in Stanford's. Simple remedies do exist that could mitigate this, though."
                 }
             ],
             "questions": [
                 {
                     "index": 1,
                     "text": "Does the Stanford community discuss socioeconomic disparities enough?",
-                    "yes": 3,
+                    "yes": 4,
                     "no": 1
                 },
                 {
                     "index": 2,
                     "text": "What was the economic impact on you personally of studying abroad?",
-                    "yes": 2,
+                    "yes": 3,
                     "no": 5
                 },
                 {
                     "index": 3,
                     "text": "What is it like to be abroad?",
-                    "yes": 1,
+                    "yes": 2,
                     "no": 1
                 },
                 {
                     "index": 4,
                     "text": "My Questions",
                     "yes": 2,
-                    "no": 1
+                    "no": 2
                 }
             ]
         },
@@ -115,6 +118,7 @@
             "title": "Back on top: Water polo defeats UCLA to win national title",
             "category": "sports",
             "uniqueID": "3",
+            "source": "Stanford Daily",
             "link": "http://www.stanforddaily.com/2014/05/12/back-on-top-water-polo-defeats-ucla-to-win-national-title/",
             "image": "http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/WaterPolo.jpg",
             "summary": "Stanford women's water polo defeated UCLA to win the national title.",
@@ -154,6 +158,7 @@
             "title": "Stanford's satellite campus to forge bond with Redwood City",
             "category": "stanford",
             "uniqueID": "4",
+            "source": "Stanford Daily",
             "link": "http://www.stanforddaily.com/2014/05/08/stanfords-satellite-campus-to-forge-bond-with-redwood-city/",
             "image": "http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg",
             "summary": "Stanford is developing a satellite campus in Redwood City",
@@ -172,20 +177,26 @@
                 {
                     "index": 1,
                     "text": "Does this affect Stanford's main campus?",
-                    "yes": 2,
-                    "no": 1
+                    "yes": 3,
+                    "no": 2
                 },
                 {
                     "index": 2,
                     "text": "Is this good for Redwood City?",
                     "yes": 1,
-                    "no": 1
+                    "no": 3
                 },
                 {
                     "index": 3,
                     "text": "Will Stanford free up space on main campus, or simply expand administrative staff?",
-                    "yes": 5,
+                    "yes": 7,
                     "no": 1
+                },
+                {
+                    "index": 4,
+                    "text": "Does Redwood City need a stanford addition?",
+                    "yes": 1,
+                    "no": 2
                 }
             ]
         }
