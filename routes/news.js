@@ -27,5 +27,5 @@ exports.viewNewsItem = function(req, res){
 }
 
 exports.viewAllData = function(req, res){
-	res.render('dataDump', stories);
+	res.json(stories);
 }
