@@ -9,13 +9,20 @@ var findIndexByAttr = function(array, attr, value) {
     return -1;
 }
 
+var sortQuestions = function(a, b){
+	var aTotal = a.yes + a.no;
+	var bTotal = b.yes + b.no;
+	return bTotal - aTotal;
+}
+
 
 exports.viewNewsItem = function(req, res){
 	var newsId = req.params.id;
-	console.log(newsId);
-	console.log(stories);
 	storyID = findIndexByAttr(stories.stories, 'uniqueID', newsId);
 	story = stories.stories[storyID];
+	console.log(story);
+	story.questions.sort(sortQuestions);
+	console.log(story);
 	res.render('newsItem', story);
 }
 
