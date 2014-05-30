@@ -48,7 +48,7 @@ app.get('/news/:id', news.viewNewsItem);
 app.get('/add/:id', questions.createQuestion);
 app.get('/submitQs/:id', questions.submitQuestion);
 app.get('/updateVotes', votes.update);
-
+app.get('/datadump', news.viewAllData);
 
 
 http.createServer(app).listen(app.get('port'), function(){

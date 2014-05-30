@@ -18,3 +18,7 @@ exports.viewNewsItem = function(req, res){
 	story = stories.stories[storyID];
 	res.render('newsItem', story);
 }
+
+exports.viewAllData = function(req, res){
+	res.render('dataDump', stories);
+}
