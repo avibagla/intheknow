@@ -20,20 +20,20 @@
                 {
                     "index": 1,
                     "text": "Was Trent Murphy deserving to go in the Second Round?",
-                    "yes": 83,
-                    "no": 33
+                    "yes": 1,
+                    "no": 1
                 },
                 {
                     "index": 2,
                     "text": "Should Shayne Skov have gone undrafted?",
-                    "yes": 116,
-                    "no": 44
+                    "yes": 1,
+                    "no": 1
                 },
                 {
                     "index": 3,
                     "text": "Do you love football?",
-                    "yes": 72,
-                    "no": 78
+                    "yes": 1,
+                    "no": 1
                 }
             ]
         },
@@ -57,20 +57,20 @@
                 {
                     "index": 1,
                     "text": "Will you miss Meyer Library?",
-                    "yes": 4,
+                    "yes": 1,
                     "no": 1
                 },
                 {
                     "index": 2,
                     "text": "Is the new Lathrop library too far?",
                     "yes": 1,
-                    "no": 4
+                    "no": 1
                 },
                 {
                     "index": 3,
                     "text": "Best study spot on campus: Green",
-                    "yes": 12,
-                    "no": 24
+                    "yes": 1,
+                    "no": 1
                 }
             ]
         },
@@ -91,19 +91,19 @@
                 {
                     "index": 1,
                     "text": "Does the Stanford community discuss socioeconomic disparities enough?",
-                    "yes": 5,
-                    "no": 2
+                    "yes": 1,
+                    "no": 1
                 },
                 {
                     "index": 2,
                     "text": "Could you afford going abroad?",
-                    "yes": 4,
-                    "no": 6
+                    "yes": 1,
+                    "no": 1
                 },
                 {
                     "index": 3,
                     "text": "Have you ever been abroad?",
-                    "yes": 4,
+                    "yes": 1,
                     "no": 1
                 }
             ]
@@ -131,20 +131,20 @@
                 {
                     "index": 1,
                     "text": "Will the women's tennis team win?",
-                    "yes": 2,
-                    "no": 4
+                    "yes": 1,
+                    "no": 1
                 },
                 {
                     "index": 2,
                     "text": "Is the streak secure for years to come?",
-                    "yes": 3,
-                    "no": 3
+                    "yes": 1,
+                    "no": 1
                 },
                 {
                     "index": 3,
                     "text": "Can the women's water polo team repeat next year as champions?",
-                    "yes": 3,
-                    "no": 2
+                    "yes": 1,
+                    "no": 1
                 }
             ]
         },
@@ -171,26 +171,26 @@
                 {
                     "index": 1,
                     "text": "Does this affect Stanford's main campus?",
-                    "yes": 4,
-                    "no": 2
+                    "yes": 1,
+                    "no": 1
                 },
                 {
                     "index": 2,
                     "text": "Is this good for Redwood City?",
                     "yes": 1,
-                    "no": 3
+                    "no": 1
                 },
                 {
                     "index": 3,
                     "text": "Will Stanford free up space on main campus?",
-                    "yes": 7,
+                    "yes": 1,
                     "no": 1
                 },
                 {
                     "index": 4,
                     "text": "Does Redwood City need a stanford addition?",
                     "yes": 1,
-                    "no": 2
+                    "no": 1
                 }
             ]
         }
