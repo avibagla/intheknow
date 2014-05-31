@@ -149,48 +149,39 @@
             ]
         },
         {
-            "title": "Stanford's satellite campus to forge bond with Redwood City",
+            "title": "Stanford students petition against Gates Foundation's investment in controversial security firm G4S",
             "category": "stanford",
             "uniqueID": "4",
             "source": "Stanford Daily",
-            "link": "http://www.stanforddaily.com/2014/05/08/stanfords-satellite-campus-to-forge-bond-with-redwood-city/",
+            "link": "http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/",
             "image": "http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg",
             "summary": "Stanford is developing a satellite campus in Redwood City",
             "details": [
                 {
-                    "text": "The campus will be on a 35-acre plot of land seven miles north of Stanford"
+                    "text": "Bill and Melinda Gates are the 2014 commencement speakers"
                 },
                 {
-                    "text": "The satellite campus will likely be under construction until 2020"
+                    "text": "The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses"
                 },
                 {
-                    "text": "The majority of the campus will be \"back office\" space for administrators"
+                    "text": "A coalition of students petitioned against the foundation's investment in the firm"
+                },
+                {
+                    "text": "In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration"
                 }
             ],
             "questions": [
                 {
                     "index": 1,
-                    "text": "Does this affect Stanford's main campus?",
+                    "text": "Should studens have petitioned against the foundation's investment?",
                     "yes": 1,
-                    "no": 1
+                    "no": 3
                 },
                 {
                     "index": 2,
-                    "text": "Is this good for Redwood City?",
+                    "text": "Does the foundation's investment in G4S affect the commencement ceremony?",
                     "yes": 1,
-                    "no": 1
-                },
-                {
-                    "index": 3,
-                    "text": "Will Stanford free up space on main campus?",
-                    "yes": 1,
-                    "no": 1
-                },
-                {
-                    "index": 4,
-                    "text": "Does Redwood City need a stanford addition?",
-                    "yes": 1,
-                    "no": 1
+                    "no": 4
                 }
             ]
         }

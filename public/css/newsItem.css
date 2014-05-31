@@ -58,7 +58,8 @@ a{
 	height: 100%;
 	float: left;
 	margin: 1%;
-
+	-moz-appearance:button; /* Firefox */
+	-webkit-appearance:button; /* Safari and Chrome */
 }
 
 .yesClicked, .noClicked{
@@ -99,4 +100,18 @@ a{
 
 .hiddenText{
 	display: none;
+}
+
+.questionTitle{
+	font-size: 200%;
+	font-weight: bold;
+}
+.detail{
+	padding-bottom: 10px;
+}
+.question{
+	padding-top: 20px;
+}
+.addQuestion{
+	padding-top: 10px;
 }
