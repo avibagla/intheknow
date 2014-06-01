@@ -1,0 +1,1511 @@
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   questions: 
+        no: 2 },
+      { index: 2,
+      { index: 3, text: '?', yes: 1, no: 1 } ],
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   uniqueID: '4',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   _locals: [Function: locals] }
+        yes: 5,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+2014-06-01T09:35:52.852015+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=eca45a4b-148b-4b7d-bfe4-01569953e18d fwd="128.12.254.138" dyno=web.1 connect=4ms service=4ms status=200 bytes=8703
+   questions: 
+   details: 
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 4 },
+   source: 'Stanford Daily',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+        yes: 1,
+   source: 'Stanford Daily',
+        no: 2 },
+        yes: 1,
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+2014-06-01T09:35:52.861574+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=201bd951-b1e0-4778-a3d8-858a5a25ccbc fwd="128.12.254.138" dyno=web.1 connect=2ms service=10ms status=200 bytes=29393
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   uniqueID: '4',
+   details: 
+    [ { index: 1,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   _locals: [Function: locals] }
+ [90mGET /news/4 [32m200 [90m11ms - 4.27kb[0m
+2014-06-01T09:35:52.859387+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=0655e25c-fea4-4af7-8deb-da84867b31d7 fwd="128.12.254.138" dyno=web.1 connect=2ms service=6ms status=200 bytes=11528
+2014-06-01T09:35:52.849591+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=23f4a30b-79ac-47c1-b3bf-4cdbec1c1611 fwd="128.12.254.138" dyno=web.1 connect=1ms service=3ms status=200 bytes=1588
+ [90mGET /js/bootstrap.min.js [32m200 [90m8ms - 28.43kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+ [90mGET /css/bootstrap.min.css [32m200 [90m3ms - 97.62kb[0m
+2014-06-01T09:35:52.839483+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=8dd809fd-c1e9-4ad4-9a1c-66b4d1b6497f fwd="128.12.254.138" dyno=web.1 connect=0ms service=3ms status=200 bytes=901
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+2014-06-01T09:35:52.946721+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=36fa3f57-eee5-4f97-8af8-b1fabfe4725f fwd="128.12.254.138" dyn
+o=web.1 connect=0ms service=3ms status=200 bytes=3009
+ [90mGET /js/bootstrap-slider.js [32m200 [90m2ms - 10.98kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m1ms - 2.66kb[0m
+2014-06-01T09:35:53.402060+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=6a9b062f-5d89-48e7-9f92-2205066bc716 fwd="128.12.254.138" dyno=web.1 connect=1ms service=3ms status=200 bytes=23601
+2014-06-01T09:35:53.719802+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=7144669a-a7b6-4d7f-8e04-be366076c97b fwd="128.12.254.138" dyno=web.1 connect=1ms service=2ms status=200 bytes=1634
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.77kb[0m
+2014-06-01T09:35:59.355822+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=1&vote=no host=intheknow.herokuapp.com request_id=5480d256-9fc1-4a26-8b64-032b148730d1 fwd="128.12.254.138" dyno=web.1 connect=1ms service=4ms status=200 bytes=185
+ UNIQUEID:4
+ VOTE:no
+ IN_NO!
+ INDEX:Number
+ i:3    questions[i][index]:3
+ i:2    questions[i][index]:2
+ i:0    questions[i][index]:0
+ i:4    questions[i][index]:4
+ [90mGET /updateVotes?uniqueID=4&index=1&vote=no [32m200 [90m2ms[0m
+ IN UPDATE VOTES!
+ i:1    questions[i][index]:1
+ i:0    questions[i][index]:1
+ IN UPDATE VOTES!
+ UNIQUEID:4
+ INDEX:Number
+ VOTE:no
+ i:0    questions[i][index]:0
+ i:3    questions[i][index]:3
+ i:1    questions[i][index]:2
+ i:4    questions[i][index]:4
+ i:1    questions[i][index]:1
+ i:0    questions[i][index]:1
+ IN_NO!
+ [90mGET /updateVotes?uniqueID=4&index=2&vote=no [32m200 [90m1ms[0m
+2014-06-01T09:36:00.237370+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=2&vote=no host=intheknow.herokuapp.com request_id=066e0fb2-0bc2-4ee5-a44f-c5604987f3c4 fwd="128.12.254.138" dyno=web.1 connect=2ms service=3ms status=200 bytes=185
+ i:2    questions[i][index]:2
+2014-06-01T09:36:09.371380+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=3&vote=no host=intheknow.herokuapp.com request_id=28195b8c-6391-4084-a44d-1184b73891e9 fwd="128.12.254.138" dyno=web.1 connect=0ms service=5ms status=200 bytes=185
+ i:1    questions[i][index]:2
+ IN UPDATE VOTES!
+ [90mGET /updateVotes?uniqueID=4&index=3&vote=no [32m200 [90m3ms[0m
+ VOTE:no
+ UNIQUEID:4
+ INDEX:Number
+ i:0    questions[i][index]:0
+ i:2    questions[i][index]:2
+ i:4    questions[i][index]:4
+ i:1    questions[i][index]:1
+ i:3    questions[i][index]:3
+ i:0    questions[i][index]:1
+ i:2    questions[i][index]:3
+ IN_NO!
+2014-06-01T09:36:14.739545+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=6face7fd-b5d0-453a-9cd2-f8a311049fbe fwd="128.12.254.138" dyno=web.1 connect=1ms service=19ms status=304 bytes=128
+2014-06-01T09:36:14.954009+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=77c0466e-e7ec-4c47-9632-b877a0f0d8e5 fwd="128.12.254.138" dyno=web.1 connect=1ms service=3ms status=304 bytes=232
+2014-06-01T09:36:14.953534+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=31dec8f1-53fa-4a77-aca6-4e6ef24cdb7d fwd="128.12.254.138" dyno=web.1 connect=1ms service=3ms status=304 bytes=231
+2014-06-01T09:36:14.958685+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=5a472471-55b8-4303-a41f-7c0c579c67c2 fwd="128.12.254.138" dyno=web.1 connect=1ms service=4ms status=304 bytes=231
+2014-06-01T09:36:14.958276+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=93dfd6ac-9be3-4bfd-a447-3d1804fbd2cc fwd="128.12.254.138" dyno=web.1 connect=1ms service=5ms status=304 bytes=232
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+2014-06-01T09:36:14.951481+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=09eabb86-1fd3-4e6b-9d30-8333cd650552 fwd="128.12.254.138" dyno=web.1 connect=1ms service=3ms status=304 bytes=230
+   category: 'stanford',
+   source: 'Stanford Daily',
+        yes: 1,
+   uniqueID: '4',
+   details: 
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+2014-06-01T09:36:14.961956+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=abc047dc-0534-480a-9e86-d0275ebf45e1 fwd="128.12.254.138" dyno=web.1 connect=2ms service=7ms status=304 bytes=232
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+    [ { index: 1,
+   details: 
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 5 },
+2014-06-01T09:36:14.725658+00:00 app[we
+b.1]:      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        no: 3 },
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   questions: 
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { index: 2,
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+    [ { index: 1,
+      { index: 3, text: '?', yes: 1, no: 2 } ],
+        text: 'Should stu
+dents have petitioned against the foundation\'s investment?',
+   category: 'stanford',
+        yes: 1,
+        yes: 5,
+        no: 3 },
+   _locals: [Function: locals] }
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   uniqueID: '4',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   source: 'Stanford Daily',
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+ [90mGET /js/bootstrap-slider.js [36m304 [90m2ms[0m
+ [90mGET /js/bootstrap.min.js [36m304 [90m0ms[0m
+        yes: 5,
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+        no: 5 },
+ [90mGET /news/4 [36m304 [90m16ms[0m
+      { index: 3, text: '?', yes: 1, no: 2 } ],
+   questions: 
+ [90mGET /css/main.css [36m304 [90m1ms[0m
+      { index: 2,
+   _locals: [Function: locals] }
+2014-06-01T09:36:15.038857+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=b9087063-eb9a-4454-88d1-c5d2ccfe9e25 fwd="128.12.254.138" dyno=web.1 connect=1ms service=5ms status=304 bytes=232
+ [90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+ [90mGET /css/newsItem.css [36m304 [90m3ms[0m
+ [90mGET /js/newsItem.js [36m304 [90m1ms[0m
+ [90mGET /js/modernizr.js [36m304 [90m0ms[0m
+2014-06-01T09:36:15.271663+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=f7b12a36-31de-485f-80af-b19f2f193e0b fwd="128.12.254.138" dyno=web.1 connect=1ms service=3ms status=304 bytes=231
+ [90mGET /fonts/glyphicons-halflings-regular.woff [36m304 [90m0ms[0m
+2014-06-01T09:39:26.914731+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=3774c2b8-abaa-4de3-84f3-fef48f8802ac fwd="128.12.48.195" dyno=web.1 connect=0ms service=6ms status=200 bytes=100243
+ [90mGET /css/bootstrap.min.css [32m200 [90m3ms - 97.62kb[0m
+2014-06-01T09:39:27.488601+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=564796b4-d37d-49c8-b594-fe7c172dfca4 fwd="128.12.48.195" dyno=web.1 connect=3ms service=9ms status=200 bytes=29393
+2014-06-01T09:39:27.477319+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=abea1ac1-93e0-4fda-9766-086fc30f1836 fwd="128.12.48.195" dyno=web.1 connect=0ms service=3ms status=200 bytes=23601
+2014-06-01T09:39:27.419606+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=6e884f9e-3958-47b4-9724-1a07d4f8d689 fwd="128.12.48.195" dyno=web.1 connect=2ms service=2ms status=200 bytes=11528
+2014-06-01T09:39:27.760637+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=57d0f5e9-3a9d-498f-95e9-9342bdcd8d50 fwd="128.12.48.195" dyno=web.1 connect=0ms service=2ms status=200 bytes=1634
+2014-06-01T09:39:27.476934+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=90f7c8db-986b-4932-b2b6-6b88694bbffd fwd="128.12.48.195" dyno=web.1 connect=0ms service=3ms status=200 bytes=3009
+2014-06-01T09:39:27.395958+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=94b65af4-e458-4e7c-ac77-ba2b44169f52 fwd="128.12.48.195" dyno=web.1 connect=2ms service=4ms status=200 bytes=8703
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+2014-06-01T09:39:27.023779+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=29f520e9-5b45-4faf-b812-edcfc4bec0a8 fwd="128.12.48.195" dyno=web.1 connect=0ms service=2ms status=200 bytes=901
+ [90mGET /js/bootstrap-slider.js [32m200 [90m1ms - 10.98kb[0m
+2014-06-01T09:39:26.766873+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=673517e2-a505-41a9-8f2d-cf7f868f9fa7 fwd="128.12.48.195" dyno=web.1 connect=1ms service=9ms status=200 bytes=4549
+2014-06-01T09:39:27.005939+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=5ff36308-269c-490b-8c88-a50f3f8b0c78 fwd="128.12.48.195" dyno=web.1 connect=0ms service=9ms status=200 bytes=1588
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m2ms - 2.66kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.77kb[0m
+   source: 'Stanford Daily',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   category: 'stanford',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+    [ { index: 1,
+        no: 5 },
+      { index: 3, text: '?', yes: 1, no: 2 } ],
+   category: 'stanford',
+      { index: 2,
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   uniqueID: '4',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 5 },
+   uniqueID: '4',
+   details: 
+      { index: 2,
+        yes: 1,
+    [ { index: 1,
+        no: 3 },
+      { index: 3, text: '?', yes: 1, no: 2 } ],
+   source: 'Stanford Daily',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 3 },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   _locals: [Function: locals] }
+ [90mGET /css/newsItem.css [32m200 [90m2ms - 1.27kb[0m
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   questions: 
+   _locals: [Function: locals] }
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        yes: 5,
+        yes: 1,
+   questions: 
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 5,
+   details: 
+ [90mGET /news/4 [32m200 [90m8ms - 4.27kb[0m
+2014-06-01T09:39:40.728705+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=1&vote=yes host=intheknow.herokuapp.com request_id=f35b20bc-88e2-498b-8641-ecd475553c8d fwd="128.12.48.195" dyno=web.1 connect=2ms service=6ms status=200 bytes=185
+ VOTE:yes
+ INDEX:Number
+ i:3    questions[i][index]:3
+ UNIQUEID:4
+ i:1    questions[i][index]:1
+ i:2    questions[i][index]:2
+ IN_YES!
+ i:0    questions[i][index]:1
+ IN UPDATE VOTES!
+ i:4    questions[i][index]:4
+ [90mGET /updateVotes?uniqueID=4&index=1&vote=yes [32m200 [90m2ms[0m
+ i:0    questions[i][index]:0
+2014-06-01T10:05:51.744815+00:00 heroku[router]: at=info method=GET path=/ host=intheknow.herokuapp.com request_id=9c13547f-29c3-4b04-846f-82150b23ec51 fwd="128.12.255.135, 66.249.84.110" dyno=web.1 connect=1ms service=20ms status=200 bytes=3185
+2014-06-01T10:05:51.932364+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=4ee3480d-69d0-4ff5-af7b-e6fbe73b1fe4 fwd="66.249.84.110" dyno=web.1 connect=0ms service=3ms status=200 bytes=8703
+2014-06-01T10:05:51.918636+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=c0359069-f778-4a62-969e-3d037506cda4 fwd="66.249.84.110" dyno=web.1 connect=1ms service=75ms status=200 bytes=29393
+2014-06-01T10:05:51.929103+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=266eda0b-3a35-4c90-ac80-09f4cd3ecc8d fwd="66.249.84.110" dyno=web.1 connect=1ms service=2ms status=200 bytes=11528
+2014-06-01T10:05:51.924393+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=24559001-ee1b-4eb2-b4fa-5e1709a341dd fwd="66.249.84.110" dyno=web.1 connect=1ms service=6ms status=200 bytes=901
+2014-06-01T10:05:51.933979+00:00 heroku[router]: at=info method=GET path=/css/carousel.css host=intheknow.herokuapp.com request_id=aca81f22-3ab5-4fc6-ad3d-077f0cb15272 fwd="66.249.84.111" dyno=web.1 connect=0ms service=2ms status=200 bytes=2989
+2014-06-01T10:05:51.941876+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=be19890d-56ea-4d7c-9e87-9c97cb1a07d2 fwd="66.249.84.3" dyno=web.1 connect=2ms service=5ms status=200 bytes=100243
+ [90mGET /js/modernizr.js [32m200 [90m2ms - 8.22kb[0m
+ [90mGET /css/bootstrap.min.css [32m200 [90m3ms - 97.62kb[0m
+ [90mGET /css/main.css [32m200 [90m2ms - 620b[0m
+ [90mGET / [32m200 [90m7ms - 2.94kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m1ms - 10.98kb[0m
+ [90mGET /css/carousel.css [32m200 [90m1ms - 2.64kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+2014-06-01T10:05:53.185666+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=c8004b22-d26a-484b-8055-01594d85ddab fwd="128.12.255.135, 66.249.84.110" dyno=web.1 connect=3ms service=7ms status=200 bytes=100243
+2014-06-01T10:05:53.187114+00:00 heroku[router]: at=info method=GET path=/css/carousel.css host=intheknow.herokuapp.com request_id=6707686b-7ecc-421f-af98-c1e73ad3810e fwd="128.12.255.135, 66.249.84.111" dyno=web.1 connect=0ms service=2ms status=200 bytes=2989
+2014-06-01T10:05:53.255717+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=e80f4503-80bf-4832-ad21-76041abaa3ea fwd="128.12.255.135, 66.249.84.110" dyno=web.1 connect=1ms service=3ms status=200 bytes=901
+2014-06-01T10:05:53.276496+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=52e03527-440d-46ee-a46f-d23c5a867954 fwd="128.12.255.135, 66.249.84.110" dyno=web.1 connect=1ms service=3ms status=200 bytes=8703
+2014-06-01T10:05:53.358633+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=480f7b31-dd72-4662-9348-a2913f049a52 fwd="128.12.255.135, 66.249.84.111" dyno=web.1 connect=0ms service=2ms status=200 bytes=11528
+2014-06-01T10:05:53.363320+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=c82f04f3-4c8b-4090-b543-9f0333ab5254 fwd="128.12.255.135, 66.249.84.237" dyno=web.1 connect=1ms service=6ms status=200 bytes=29393
+ [90mGET /css/carousel.css [32m200 [90m1ms - 2.64kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m2ms - 10.98kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+ [90mGET /css/bootstrap.min.css [32m200 [90m3ms - 97.62kb[0m
+2014-06-01T10:05:56.228278+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=ca6b9ea0-baa2-4b0e-a4df-22fd041dee6c fwd="128.12.255.135, 66.249.84.110" dyno=web.1 connect=0ms service=2ms status=200 bytes=1634
+2014-06-01T10:06:02.355835+00:00 heroku[router]: at=info method=GET path=/datadump host=intheknow.herokuapp.com request_id=256987ad-e6fc-415b-b332-7555f880804e fwd="128.12.255.135, 66.249.84.110" dyno=web.1 connect=1ms service=3ms status=200 bytes=6707
+ [90mGET /datadump [32m200 [90m1ms - 6.37kb[0m
+2014-06-01T10:09:15.361101+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=a05599b7-cba3-444b-bec3-b89480d15b34 fwd="42.104.0.158, 66.249.80.160" dyno=web.1 connect=1ms service=19ms status=200 bytes=4549
+   details: 
+      { index: 2,
+        no: 5 },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+    [ { index: 1,
+      { index: 3, text: '?', yes: 1, no: 2 } ],
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   details: 
+        yes: 6,
+   uniqueID: '4',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   questions: 
+   source: 'Stanford Daily',
+        no: 3 },
+        yes: 1,
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 3 },
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   questions: 
+   category: 'stanford',
+      { index: 2,
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 6,
+      { index: 3, text: '?', yes: 1, no: 2 } ],
+   _locals: [Function: locals] }
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        yes: 1,
+        no: 5 },
+   _locals: [Function: locals] }
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+ [90mGET /news/4 [32m200 [90m17ms - 4.27kb[0m
+2014-06-01T10:09:20.809606+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=10ab9557-4244-4455-a626-999203c14a12 fwd="42.104.0.158, 66.249.80.160" dyno=web.1 connect=1ms service=4ms status=200 bytes=11528
+2014-06-01T10:09:21.020420+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=ab986576-5118-4725-a03c-3ca3e5654ce1 fwd="42.104.0.158, 66.249.80.156" dyno=web.1 connect=2ms service=5ms status=200 bytes=901
+2014-06-01T10:09:21.021854+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=60b77e4d-2bed-4eae-ac31-e6adb491f093 fwd="42.104.0.158, 66.249.80.10" dyno=web.1 connect=0ms service=2ms status=200 bytes=1588
+2014-06-01T10:09:21.018958+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=635e3e80-ea0e-43c8-956d-ecdc6afa20ad fwd="42.104.0.158, 66.249.80.91" dyno=web.1 connect=0ms service=2ms status=200 bytes=3009
+2014-06-01T10:09:21.025440+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=fc203521-1a76-409c-8063-210519846538 fwd="42.104.0.158, 66.249.80.61" dyno=web.1 connect=0ms service=2ms status=200 bytes=29393
+2014-06-01T10:09:21.048336+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=59e7ce6e-9308-4635-bbac-5bf1ce2d009f fwd="42.104.0.158, 66.249.80.61" dyno=web.1 connect=3ms service=4ms status=200 bytes=100243
+2014-06-01T10:09:21.042191+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=3b7e64a9-214a-4cdd-af0f-63439551348d fwd="42.104.0.158, 66.249.80.156" dyno=web.1 connect=2ms service=5ms status=200 bytes=8703
+ [90mGET /js/bootstrap-slider.js [32m200 [90m1ms - 10.98kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m1ms - 2.66kb[0m
+ [90mGET /css/bootstrap.min.css [32m200 [90m4ms - 97.62kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+2014-06-01T10:09:40.658929+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=c311ec77-e007-43a5-ab1d-0d4294c648fc fwd="42.104.0.158, 66.249.80.91" dyno=web.1 connect=17ms service=16ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.77kb[0m
+2014-06-01T10:10:55.153732+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=031733a0-9124-4465-be0e-91ef2a6c26a2 fwd="42.104.0.158, 66.249.80.190" dyno=web.1 connect=1ms service=2ms status=200 bytes=1634
+2014-06-01T11:13:08.359246+00:00 heroku[web.1]: Idling
+2014-06-01T11:13:08.360828+00:00 heroku[web.1]: State changed from up to down
+2014-06-01T11:13:12.426371+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2014-06-01T11:13:14.740914+00:00 heroku[web.1]: Process exited with status 143
+2014-06-01T12:40:53.859170+00:00 heroku[web.1]: State changed from down to starting
+2014-06-01T12:40:53.858838+00:00 heroku[web.1]: Unidling
+ connect.multipart() will be removed in connect 3.0
+ connect.limit() will be removed in connect 3.0
+ Express server listening on port 45840
+ visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+      { index: 2,
+        no: 1 } ] }
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        no: 1 },
+   questions: 
+2014-06-01T12:40:59.486213+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=8c029e9a-93ce-4e09-bdd4-31c2d4f80a63 fwd="82.123.248.245" dyno=web.1 connect=1ms service=6ms status=200 bytes=8703
+   uniqueID: '4',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { index: 2,
+        no: 1 } ] }
+   details: 
+        yes: 1,
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+    [ { index: 1,
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        yes: 1,
+    [ { index: 1,
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   questions: 
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        yes: 1,
+   source: 'Stanford Daily',
+   details: 
+        yes: 1,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+        no: 1 },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+ [90mGET /news/4 [32m200 [90m38ms - 3.93kb[0m
+2014-06-01T12:40:59.483959+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=6174bc4b-37ac-4de5-8013-c563914a3337 fwd="82.123.248.245" dyno=web.1 connect=1ms service=5ms status=200 bytes=29393
+2014-06-01T12:40:59.502115+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=715ceb9c-b914-4f52-ac57-b07817e9a147 fwd="82.123.248.245" dyno=web.1 connect=1ms service=3ms status=200 bytes=11528
+2014-06-01T12:40:59.352418+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=64feac0f-bb10-4e0d-9750-42c5e3f6bb5c fwd="82.123.248.245" dyno=web.1 connect=1ms service=13ms status=200 bytes=100243
+2014-06-01T12:40:59.045145+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=d3ce8bc2-e6b2-4ead-9661-2aef7fb36b2d fwd="82.123.248.245" dyno=web.1 connect=2ms service=44ms status=200 bytes=4203
+ [90mGET /js/newsItem.js [32m200 [90m1ms - 2.66kb[0m
+2014-06-01T12:40:59.610517+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=a95e4d6a-9902-494b-affd-db2526fb4df2 fwd="82.123.248.245" dyno=web.1 connect=1ms service=3ms status=200 bytes=3009
+2 [90mGET /js/modernizr.js [32m200 [90m2ms - 8.22kb[0m
+ [90mGET /css/main.css [32m200 [90m2ms - 620b[0m
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+ [90mGET /css/bootstrap.min.css [32m200 [90m8ms - 97.62kb[0m
+2014-06-01T12:40:56.055176+00:00 heroku[web.1]: Starting process with command `node app.js`
+ [90mGET /js/bootstrap-slider.js [32m200 [90m1ms - 10.98kb[0m
+2014-06-01T12:40:57.466331+00:00 heroku[web.1]: State changed from starting to up
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m3ms - 22.77kb[0m
+2014-06-01T12:40:59.469262+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=5ab81c10-d9f6-4e5e-9b8e-c8a9426b3da5 fwd="82.123.248.245" dyno=web.1 connect=0ms service=4ms status=200 bytes=901
+2014-06-01T12:40:59.677730+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=8c30df97-c372-4f72-834e-ef74c962684d fwd="82.123.248.245" dyno=web.1 connect=26ms service=53ms status=200 bytes=1588
+2014-06-01T12:41:02.276230+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=db02e329-f1c6-4055-aa8b-e5b7fc5de8bf fwd="82.123.248.245" dyno=web.1 connect=1ms service=5ms status=200 bytes=23601
+2014-06-01T12:41:02.978452+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=c117d12a-8b5e-4c1c-80b1-dd26ebe3002c fwd="82.123.248.245" dyno=web.1 connect=67ms service=60ms status=200 bytes=1634
+2014-06-01T13:44:39.492265+00:00 heroku[web.1]: Idling
+2014-06-01T13:44:39.493252+00:00 heroku[web.1]: State changed from up to down
+2014-06-01T13:44:42.238686+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2014-06-01T13:44:44.151798+00:00 heroku[web.1]: Process exited with status 143
+2014-06-01T16:01:25.448156+00:00 heroku[web.1]: State changed from down to starting
+2014-06-01T16:01:25.447573+00:00 heroku[web.1]: Unidling
+ visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+ Express server listening on port 38198
+ connect.limit() will be removed in connect 3.0
+ connect.multipart() will be removed in connect 3.0
+2014-06-01T16:01:29.053599+00:00 heroku[web.1]: State changed from starting to up
+2014-06-01T16:01:29.977807+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=8f843f20-9617-49aa-ba85-0f688285f34a fwd="128.12.245.4" dyno=web.1 connect=1ms service=43ms status=200 bytes=4203
+2014-06-01T16:01:30.171473+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=e78b8855-ecea-4443-8947-3defd3e08005 fwd="128.12.245.4" dyno=web.1 connect=0ms service=10ms status=200 bytes=100243
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   details: 
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+        text: 'Should students have petitioned against the foundation\'s investment?',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { index: 2,
+   category: 'stanford',
+   details: 
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   questions: 
+    [ { index: 1,
+        yes: 1,
+   source: 'Stanford Daily',
+        yes: 1,
+ [90mGET /news/4 [32m200 [90m38ms - 3.93kb[0m
+        yes: 1,
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { index: 2,
+        no: 1 } ] }
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 1 } ] }
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   questions: 
+    [ { index: 1,
+        no: 1 },
+        no: 1 },
+   uniqueID: '4',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        yes: 1,
+2014-06-01T16:01:30.252772+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=852cf505-750a-4cfb-9198-a132c1b776b6 fwd="128.12.245.4" dyno=web.1 connect=1ms service=4ms status=200 bytes=901
+2014-06-01T16:01:30.291862+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=eb612ac9-ebf7-4e18-b428-3bc1392d2f59 fwd="128.12.245.4" dyno=web.1 connect=0ms service=2ms status=200 bytes=1588
+2014-06-01T16:01:30.302692+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=ca814e26-5812-4c7c-90fb-b3f0817021b6 fwd="128.12.245.4" dyno=web.1 connect=1ms service=5ms status=200 bytes=8703
+2014-06-01T16:01:30.301625+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=109937a1-8493-4add-9831-14866f58d0d3 fwd="128.12.245.4" dyno=web.1 connect=1ms service=5ms status=200 bytes=29393
+2014-06-01T16:01:30.348812+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=be147b6d-b227-4c25-8935-afb1b32d4c4a fwd="128.12.245.4" dyno=web.1 connect=2ms service=2ms status=200 bytes=3009
+ [90mGET /css/bootstrap.min.css [32m200 [90m8ms - 97.62kb[0m
+ [90mGET /css/main.css [32m200 [90m3ms - 620b[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m3ms - 28.43kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m1ms - 2.66kb[0m
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m3ms - 8.22kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m2ms - 10.98kb[0m
+2014-06-01T16:01:30.618681+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=755ff7ea-a21b-42e6-9923-0932ba4fb200 fwd="128.12.245.4" dyno=web.1 connect=81ms service=165ms status=200 bytes=11528
+2014-06-01T16:01:31.127966+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=244c0416-f664-4378-b78d-86d2b0797d95 fwd="128.12.245.4" dyno=web.1 connect=0ms service=5ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m3ms - 22.77kb[0m
+2014-06-01T16:01:31.440218+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=90815f11-3d65-41e7-b9b9-9b5d6418b23a fwd="128.12.245.4" dyno=web.1 connect=3ms service=5ms status=200 bytes=1634
+2014-06-01T16:01:27.397408+00:00 heroku[web.1]: Starting process with command `node app.js`
+2014-06-01T16:01:42.700941+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=1&vote=no host=intheknow.herokuapp.com request_id=53be6e16-7f2c-4f83-ae27-30ff6cce31cc fwd="128.12.245.4" dyno=web.1 connect=1ms service=6ms status=200 bytes=185
+ IN UPDATE VOTES!
+ UNIQUEID:4
+ INDEX:Number
+ i:0    questions[i][index]:0
+ i:1    questions[i][index]:1
+ VOTE:no
+ i:3    questions[i][index]:3
+ i:2    questions[i][index]:2
+ i:4    questions[i][index]:4
+ IN_NO!
+ i:0    questions[i][index]:1
+ [90mGET /updateVotes?uniqueID=4&index=1&vote=no [32m200 [90m3ms[0m
+2014-06-01T16:01:44.089125+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=2&vote=no host=intheknow.herokuapp.com request_id=00acd841-e6dc-48b0-8ccc-52e185f8c5dc fwd="128.12.245.4" dyno=web.1 connect=1ms service=4ms status=200 bytes=185
+ IN UPDATE VOTES!
+ UNIQUEID:4
+ INDEX:Number
+ i:0    questions[i][index]:0
+ i:1    questions[i][index]:1
+ i:2    questions[i][index]:2
+ VOTE:no
+ [90mGET /updateVotes?uniqueID=4&index=2&vote=no [32m200 [90m2ms[0m
+ i:1    questions[i][index]:2
+ i:3    questions[i][index]:3
+ i:4    questions[i][index]:4
+ IN_NO!
+ i:0    questions[i][index]:1
+2014-06-01T16:19:39.906834+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=41092ded-e03c-4994-9f89-9f6b30e88075 fwd="76.102.42.242" dyno=web.1 connect=1ms service=19ms status=200 bytes=4203
+2014-06-01T16:19:40.069339+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=034b4e42-0bb7-4c28-80bc-6af7eaa68e51 fwd="76.102.42.242" dyno=web.1 connect=2ms service=10ms status=200 bytes=100243
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   questions: 
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   details: 
+        yes: 1,
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+      { index: 2,
+        no: 2 },
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   details: 
+        yes: 1,
+        no: 2 } ],
+   uniqueID: '4',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'A coalition of studen
+ts petitioned against the foundation\'s investment in the firm' },
+   _locals: [Function: locals] }
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+        text: 'Should students have petitioned against the foundation\'s investment?',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   source: 'Stanford Daily',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   questions: 
+        yes: 1,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        no: 2 } ],
+   category: 'stanford',
+    [ { index: 1,
+        yes: 1,
+      { index: 2,
+   _locals: [Function: locals] }
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 2 },
+ [90mGET /news/4 [32m200 [90m13ms - 3.93kb[0m
+2014-06-01T16:19:40.164257+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=3c195496-c1fa-43da-a61d-1ea7492d7c93 fwd="76.102.42.242" dyno=web.1 connect=5ms service=8ms status=200 bytes=901
+2014-06-01T16:19:40.260972+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=7cae3713-0fac-4452-bf89-71c708f4ebd2 fwd="76.102.42.242" dyno=web.1 connect=56ms service=22ms status=200 bytes=1588
+ [90mGET /css/bootstrap.min.css [32m200 [90m4ms - 97.62kb[0m
+ [90mGET /css/main.css [32m200 [90m2ms - 620b[0m
+ [90mGET /css/newsItem.css [32m200 [90m2ms - 1.27kb[0m
+2014-06-01T16:19:40.528949+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=9dfe21da-2340-46c3-b6c6-1160c757598d fwd="76.102.42.242" dyno=web.1 connect=1ms service=5ms status=200 bytes=29393
+2014-06-01T16:19:40.526254+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=3cbb1603-36df-452d-b5b5-0775883e53c6 fwd="76.102.42.242" dyno=web.1 connect=2ms service=6ms status=200 bytes=3009
+2014-06-01T16:19:40.530682+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=6968ad22-b91d-48c5-99ca-30cb6956ce52 fwd="76.102.42.242" dyno=web.1 connect=1ms service=4ms status=200 bytes=11528
+2014-06-01T16:19:40.651631+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=0f684859-3fdc-4f6d-a739-554ee2fb35cc fwd="76.102.42.242" dyno=web.1 connect=3ms service=8ms status=200 bytes=8703
+2014-06-01T16:19:40.732038+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=6f1236b8-164d-459a-90e6-5e10e77bcf1f fwd="76.102.42.242" dyno=web.1 connect=6ms service=4ms status=200 bytes=23601
+ [90mGET /js/bootstrap.min.js [32m200 [90m2ms - 28.43kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m2ms - 8.22kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m2ms - 10.98kb[0m
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.77kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m1ms - 2.66kb[0m
+2014-06-01T16:29:54.008837+00:00 heroku[router]: at=info method=GET path=/datadump host=intheknow.herokuapp.com request_id=f1f9a396-b5fa-435d-a028-c052288d87c5 fwd="128.12.255.135, 66.249.84.212" dyno=web.1 connect=2ms service=8ms status=200 bytes=6604
+ [90mGET /datadump [32m200 [90m3ms - 6.27kb[0m
+2014-06-01T16:31:41.179894+00:00 heroku[router]: at=info method=GET path=/news/4?fb_locale=zh_CN host=intheknow.herokuapp.com request_id=aac953fa-7e15-467c-9a09-99c91ce451c9 fwd="173.252.101.115" dyno=web.1 connect=5ms service=35ms status=200 bytes=4203
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   questions: 
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 2 } ],
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 2 },
+    [ { index: 1,
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+        yes: 1,
+        yes: 1,
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   source: 'Stanford Daily',
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   _locals: [Function: locals] }
+   category: 'stanford',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   details: 
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   uniqueID: '4',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 2 },
+   _locals: [Function: locals] }
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   questions: 
+    [ { index: 1,
+        yes: 1,
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        yes: 1,
+        no: 2 } ],
+ [90mGET /news/4?fb_locale=zh_CN [32m200 [90m28ms - 3.93kb[0m
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+2014-06-01T16:49:34.133634+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=4e40617d-8f19-4712-b83e-7a2a14dfec4e fwd="24.130.9.212" dyno=web.1 connect=1ms service=11ms status=200 bytes=4203
+   category: 'stanford',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 2 },
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { index: 2,
+   details: 
+        yes: 1,
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 2 },
+      { index: 2,
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   questions: 
+        yes: 1,
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+    [ { index: 1,
+   uniqueID: '4',
+   source: 'Stanford Daily',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 1,
+   category: 'stanford',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+        no: 2 } ],
+   _locals: [Function: locals] }
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+    [ { index: 1,
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   questions: 
+        no: 2 } ],
+   _locals: [Function: locals] }
+ [90mGET /news/4 [32m200 [90m9ms - 3.93kb[0m
+   details: 
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        yes: 1,
+2014-06-01T16:49:34.804724+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=56f2cb46-e334-4c50-a280-d98c5c9dddd4 fwd="24.130.9.212" dyno=web.1 connect=2ms service=5ms status=200 bytes=901
+2014-06-01T16:49:34.834359+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=d0dd972b-d2a2-47f3-acf7-592b2b7a40c9 fwd="24.130.9.212" dyno=web.1 connect=2ms service=5ms status=200 bytes=1588
+2014-06-01T16:49:34.835653+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=18bf655e-f78d-4327-b3d0-505f25fa7fdb fwd="24.130.9.212" dyno=web.1 connect=1ms service=2ms status=200 bytes=8703
+2014-06-01T16:49:34.832925+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=94d49a22-9196-4755-9ad3-40a6de89858c fwd="24.130.9.212" dyno=web.1 connect=0ms service=2ms status=200 bytes=11528
+2014-06-01T16:49:34.839623+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=b8880840-062f-4d33-a3ce-24d26eb8457e fwd="24.130.9.212" dyno=web.1 connect=1ms service=2ms status=200 bytes=29393
+2014-06-01T16:49:34.855238+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=6bc8e8ba-d49a-46b1-a87b-f131dac593ce fwd="24.130.9.212" dyno=web.1 connect=12ms service=44ms status=200 bytes=100243
+ [90mGET /js/bootstrap-slider.js [32m200 [90m1ms - 10.98kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+2014-06-01T16:49:34.832983+00:00 app[
+web.1]: [90mGET /css/bootstrap.min.css [32m200 [90m11ms - 97.62kb[0m
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+2014-06-01T16:49:35.341318+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=1ab427d1-c0f7-45ab-80cc-d585b2bbf5a2 fwd="24.130.9.212" dyno=web.1 connect=2ms service=2ms status=200 bytes=3009
+ [90mGET /js/newsItem.js [32m200 [90m1ms - 2.66kb[0m
+2014-06-01T16:49:35.616601+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=3425bb8e-e849-4458-8c4c-81e3afd427c8 fwd="24.130.9.212" dyno=web.1 connect=11ms service=30ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m1ms - 22.77kb[0m
+2014-06-01T16:49:36.106561+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=e1986d18-e6a1-4bcf-ba59-f539f78f7763 fwd="24.130.9.212" dyno=web.1 connect=0ms service=3ms status=200 bytes=1634
+2014-06-01T17:11:33.634531+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=f95ae339-e579-48cd-8fbc-5d220c235194 fwd="54.227.223.195" dyno=web.1 connect=13ms service=12ms status=200 bytes=4203
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   category: 'stanford',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   uniqueID: '4',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   details: 
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        yes: 1,
+        yes: 1,
+   source: 'Stanford Daily',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   questions: 
+        no: 2 },
+        no: 2 } ],
+   _locals: [Function: locals] }
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+        yes: 1,
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   uniqueID: '4',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+    [ { index: 1,
+    [ { index: 1,
+      { index: 2,
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   source: 'Stanford Daily',
+   details: 
+        no: 2 },
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   _locals: [Function: locals] }
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 1,
+        no: 2 } ],
+ [90mGET /news/4 [32m200 [90m6ms - 3.93kb[0m
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   questions: 
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+2014-06-01T17:12:20.591181+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=90ade583-8c47-4256-8be5-f7c9ebb54c08 fwd="198.228.216.144" dyno=web.1 connect=2ms service=22ms status=200 bytes=4203
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   details: 
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   questions: 
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 1,
+        no: 2 },
+      { index: 2,
+        yes: 1,
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        no: 2 } ],
+   _locals: [Function: locals] }
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+      { index: 2,
+   questions: 
+ [90mGET /news/4 [32m200 [90m17ms - 3.93kb[0m
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 1,
+        yes: 1,
+        no: 2 },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   _locals: [Function: locals] }
+        no: 2 } ],
+2014-06-01T17:12:20.871934+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=588ee5bd-d463-4f46-84ae-feaf000f0796 fwd="198.228.216.144" dyno=web.1 connect=9ms service=12ms status=200 bytes=100243
+2014-06-01T17:12:20.989223+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=f9619e34-1eda-451e-8a97-7f8c7707ef2d fwd="198.228.216.144" dyno=web.1 connect=2ms service=4ms status=200 bytes=1588
+2014-06-01T17:12:21.008124+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=a0a5fca9-fda5-4e10-9e35-07db9335ab90 fwd="198.228.216.144" dyno=web.1 connect=3ms service=5ms status=200 bytes=11528
+2014-06-01T17:12:21.020136+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=f2588ad8-9bbc-402d-b31b-380bce187197 fwd="198.228.216.144" dyno=web.1 connect=7ms service=11ms status=200 bytes=29393
+2014-06-01T17:12:21.036532+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=02297870-63ca-42a4-8988-ed66f9c20060 fwd="198.228.216.144" dyno=web.1 connect=12ms service=18ms status=200 bytes=901
+ [90mGET /css/bootstrap.min.css [32m200 [90m4ms - 97.62kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m1ms - 10.98kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+2014-06-01T17:12:21.104338+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=9714bd04-060d-4c7b-8adc-f334c0b276d6 fwd="198.228.216.144" dyno=web.1 connect=8ms service=29ms status=200 bytes=8703
+2014-06-01T17:12:21.149035+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=2eb99608-a920-4903-b890-76eb2c8c44f1 fwd="198.228.216.144" dyno=web.1 connect=2ms service=5ms status=200 bytes=3009
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m2ms - 2.66kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m15ms - 8.22kb[0m
+2014-06-01T17:12:21.849407+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=8a5a517e-9955-4acf-b683-768dfdfbeb1b fwd="198.228.216.144" dyno=web.1 connect=2ms service=8ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.77kb[0m
+2014-06-01T17:12:22.334853+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=0ec7f993-6bd0-4fec-b3fd-4f4e2ec04664 fwd="198.228.216.144" dyno=web.1 connect=2ms service=4ms status=200 bytes=1634
+2014-06-01T17:12:38.317293+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=2&vote=no host=intheknow.herokuapp.com request_id=5e453d08-d2b3-4544-a89a-e64826a9d509 fwd="198.228.216.144" dyno=web.1 connect=20ms service=34ms status=200 bytes=185
+ IN UPDATE VOTES!
+ UNIQUEID:4
+ INDEX:Number
+ VOTE:no
+ i:0    questions[i][index]:0
+ i:1    questions[i][index]:1
+ i:4    questions[i][index]:4
+ i:2    questions[i][index]:2
+ i:3    questions[i][index]:3
+ i:0    questions[i][index]:1
+ i:1    questions[i][index]:2
+ IN_NO!
+ [90mGET /updateVotes?uniqueID=4&index=2&vote=no [32m200 [90m2ms[0m
+2014-06-01T17:12:39.003256+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=1&vote=no host=intheknow.herokuapp.com request_id=a093b248-342d-4f36-8523-5e571e6b89dd fwd="198.228.216.144" dyno=web.1 connect=2ms service=5ms status=200 bytes=185
+ IN UPDATE VOTES!
+ UNIQUEID:4
+ INDEX:Number
+ i:0    questions[i][index]:0
+ VOTE:no
+ i:1    questions[i][index]:1
+ i:2    questions[i][index]:2
+ i:0    questions[i][index]:1
+ IN_NO!
+ i:3    questions[i][index]:3
+ [90mGET /updateVotes?uniqueID=4&index=1&vote=no [32m200 [90m1
+ms[0m
+ i:4    questions[i][index]:4
+2014-06-01T18:13:07.344087+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=d94e0168-8c2d-47c5-83f8-b16b7cfcba20 fwd="128.12.245.132" dyno=web.1 connect=1ms service=12ms status=200 bytes=4203
+2014-06-01T18:13:07.462046+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=24f0a9f7-3230-4933-8178-081566c9a100 fwd="128.12.245.132" dyno=web.1 connect=3ms service=6ms status=200 bytes=100243
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   questions: 
+    [ { index: 1,
+        yes: 1,
+        no: 3 },
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        yes: 1,
+        no: 3 } ],
+        text: 'Should students have petitioned against the foundation\'s investment?',
+   category: 'stanford',
+   _locals: [Function: locals] }
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   source: 'Stanford Daily',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   uniqueID: '4',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   questions: 
+        no: 3 } ],
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 1,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+ [90mGET /news/4 [32m200 [90m10ms - 3.93kb[0m
+    [ { index: 1,
+      { index: 2,
+   _locals: [Function: locals] }
+        no: 3 },
+        yes: 1,
+2014-06-01T18:13:07.599257+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=2506e9ed-1678-4b5e-a872-7158d43b39d2 fwd="128.12.245.132" dyno=web.1 connect=1ms service=4ms status=200 bytes=1588
+2014-06-01T18:13:07.597496+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=d4190b97-65b2-4cdb-8e1a-e55dc6e8603a fwd="128.12.245.132" dyno=web.1 connect=4ms service=7ms status=200 bytes=901
+ [90mGET /css/bootstrap.min.css [32m200 [90m3ms - 97.62kb[0m
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+2014-06-01T18:13:07.848204+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=d0e78566-e5af-459d-a328-1403a4719cfd fwd="128.12.245.132" dyno=web.1 connect=1ms service=6ms status=200 bytes=11528
+2014-06-01T18:13:07.847716+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=58f6eecf-0869-414e-9903-224704ec482b fwd="128.12.245.132" dyno=web.1 connect=4ms service=7ms status=200 bytes=29393
+2014-06-01T18:13:07.847476+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=1299103c-acfa-4f3e-94e7-1e705fd330e4 fwd="128.12.245.132" dyno=web.1 connect=1ms service=8ms status=200 bytes=3009
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+ [90mGET /js/newsItem.js [32m200 [90m4ms - 2.66kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m2ms - 10.98kb[0m
+2014-06-01T18:13:07.950646+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=aeccbe35-33a8-4974-9bf1-51eb48acbb0a fwd="128.12.245.132" dyno=web.1 connect=2ms service=4ms status=200 bytes=8703
+ [90mGET /js/bootstrap.min.js [32m200 [90m2ms - 28.43kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+2014-06-01T18:13:08.270657+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=020bad83-20a9-4b4f-85ce-890d368da984 fwd="128.12.245.132" dyno=web.1 connect=12ms service=13ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.77kb[0m
+2014-06-01T18:13:46.075057+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=1&vote=yes host=intheknow.herokuapp.com request_id=53ebb3ce-6a76-41a7-9711-ea156b42f956 fwd="128.12.245.132" dyno=web.1 connect=1ms service=5ms status=200 bytes=185
+ IN UPDATE VOTES!
+ INDEX:Number
+ i:1    questions[i][index]:1
+ i:2    questions[i][index]:2
+ i:3    questions[i][index]:3
+ i:0    questions[i][index]:1
+ IN_YES!
+ UNIQUEID:4
+ VOTE:yes
+ i:0    questions[i][index]:0
+ [90mGET /updateVotes?uniqueID=4&index=1&vote=yes [32m200 [90m3ms[0m
+ i:4    questions[i][index]:4
+2014-06-01T18:13:51.451616+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=2&vote=no host=intheknow.herokuapp.com request_id=65fb1d0f-b41f-4619-8108-17a0071940b6 fwd="128.12.245.132" dyno=web.1 connect=8ms service=9ms status=200 bytes=185
+ IN UPDATE VOTES!
+ UNIQUEID:4
+ [90mGET /updateVotes?uniqueID=4&index=2&vote=no [32m200 [90m1ms[0m
+ INDEX:Number
+ VOTE:no
+ i:0    questions[i][index]:1
+ i:0    questions[i][index]:0
+ i:2    questions[i][index]:2
+ IN_NO!
+ i:3    questions[i][index]:3
+ i:1    questions[i][index]:1
+ i:4    questions[i][index]:4
+ i:1    questions[i][index]:2
+2014-06-01T18:53:15.764658+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=4e1dff77-44f2-4e83-bacb-71699c63c257 fwd="171.66.221.130" dyno=web.1 connect=1ms service=21ms status=200 bytes=4203
+2014-06-01T18:53:15.861465+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=074d87b2-2440-4e0f-aadf-b85b505d2420 fwd="171.66.221.130" dyno=web.1 connect=0ms service=5ms status=200 bytes=100243
+2014-06-01T18:53:15.967513+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=3bd7a94d-8b91-4cfe-8ee5-47e2d91c952b fwd="171.66.221.130" dyno=web.1 connect=1ms service=5ms status=200 bytes=29393
+2014-06-01T18:53:15.968188+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=97364704-142d-4bf2-ae8c-cc4c9c63175c fwd="171.66.221.130" dyno=web.1 connect=0ms service=4ms status=200 bytes=11528
+2014-06-01T18:53:15.974126+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=16b8f4d7-b784-45e3-8eb8-6aa127f9d661 fwd="171.66.221.130" dyno=web.1 connect=3ms service=8ms status=200 bytes=1588
+2014-06-01T18:53:16.008023+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=ed53c106-2f01-458e-8af9-3847ccc73684 fwd="171.66.221.130" dyno=web.1 connect=4ms service=12ms status=200 bytes=901
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   source: 'Stanford Daily',
+   uniqueID: '4',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        yes: 1,
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 3 },
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 4 } ],
+   uniqueID: '4',
+   questions: 
+        yes: 2,
+      { index: 2,
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   category: 'stanford',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   _locals: [Function: locals] }
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   questions: 
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+      { index: 2,
+        yes: 2,
+        no: 3 },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        yes: 1,
+        no: 4 } ],
+ [90mGET /js/bootstrap-slider.js [32m200 [90m4ms - 10.98kb[0m
+   _locals: [Function: locals] }
+ [90mGET /news/4 [32m200 [90m20ms - 3.93kb[0m
+2 [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+2014-06-01T18:53:16.090805+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=5635a9d6-3f83-442a-8bff-b1bb2373c494 fwd="171.66.221.130" dyno=web.1 connect=1ms service=2ms status=200 bytes=3009
+ [90mGET /css/bootstrap.min.css [32m200 [90m3ms - 97.62kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m3ms - 28.43kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+ [90mGET /js/newsItem.js [32m200 [90m1ms - 2.66kb[0m
+2014-06-01T18:53:16.149249+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=e00d9c05-a2d4-4715-9065-33d2a7eae023 fwd="171.66.221.130" dyno=web.1 connect=89ms service=23ms status=200 bytes=8703
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+2014-06-01T18:53:16.444670+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=0a2ebe43-3b15-4fcb-b04d-f265c546a01b fwd="171.66.221.130" dyno=web.1 connect=10ms service=11ms status=200 bytes=23601
+2014-06-01T18:53:16.583462+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=33bfb7e0-2a2b-4adf-9b03-4c9549d37bb0 fwd="171.66.221.130" dyno=web.1 connect=0ms service=4ms status=200 bytes=1634
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m1ms - 22.77kb[0m
+2014-06-01T18:53:50.179184+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=1&vote=yes host=intheknow.herokuapp.com request_id=4e2dccf0-73f8-48b2-abf3-e7e6c8b762e6 fwd="171.66.221.130" dyno=web.1 connect=0ms service=2ms status=200 bytes=185
+ UNIQUEID:4
+ IN UPDATE VOTES!
+ i:0    questions[i][index]:0
+ VOTE:yes
+ INDEX:Number
+ i:2    questions[i][index]:2
+ i:1    questions[i][index]:1
+ i:3    questions[i][index]:3
+ i:4    questions[i][index]:4
+ i:0    questions[i][index]:1
+ IN_YES!
+ [90mGET /updateVotes?uniqueID=4&index=1&vote=yes [32m200 [90m1ms[0m
+2014-06-01T18:53:55.886988+00:00 heroku[router]: at=info method=GET path=/updateVotes?uniqueID=4&index=2&vote=yes host=intheknow.herokuapp.com request_id=12407a3a-e19b-4248-a925-541d23049e82 fwd="171.66.221.130" dyno=web.1 connect=1ms service=4ms status=200 bytes=185
+ IN UPDATE VOTES!
+ VOTE:yes
+ INDEX:Number
+ UNIQUEID:4
+ i:0    questions[i][index]:0
+ i:1    questions[i][index]:1
+ i:2    questions[i][index]:2
+ i:3    questions[i][index]:3
+ i:4    questions[i][index]:4
+ i:1    questions[i][index]:2
+ i:0    questions[i][index]:1
+ IN_YES!
+ [90mGET /updateVotes?uniqueID=4&index=2&vote=yes [32m200 [90m1ms[0m
+2014-06-01T18:54:41.642811+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=cf9847c9-78bd-438a-b215-0bf0211ea0f1 fwd="166.137.208.24" dyno=web.1 connect=16ms service=11ms status=200 bytes=4203
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   uniqueID: '4',
+   details: 
+   source: 'Stanford Daily',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   questions: 
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 3,
+      { index: 2,
+        yes: 2,
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 3 },
+        no: 4 } ],
+   _locals: [Function: locals] }
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   source: 'Stanford Daily',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   questions: 
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+    [ { index: 1,
+        no: 4 } ],
+   details: 
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   category: 'stanford',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 3,
+      { index: 2,
+        yes: 2,
+ [90mGET /news/4 [32m200 [90m9ms - 3.93kb[0m
+   uniqueID: '4',
+        no: 3 },
+   _locals: [Function: locals] }
+2014-06-01T18:54:41.901125+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=ac3513ef-93a3-4454-ad13-8e2f37cab2cc fwd="166.137.208.24" dyno=web.1 connect=21ms service=7ms status=200 bytes=100243
+2014-06-01T18:54:42.082926+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=db671a92-3dcc-482e-a5f4-201455225685 fwd="166.137.208.24" dyno=web.1 connect=35ms service=3ms status=200 bytes=1588
+2014-06-01T18:54:42.120341+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=bbd2dfaf-a52f-4d54-bb6e-32941158bc52 fwd="166.137.208.24" dyno=web.1 connect=11ms service=14ms status=200 bytes=901
+ [90mGET /css/bootstrap.min.css [32m200 [90m2ms - 97.62kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+2014-06-01T18:54:42.625503+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=c070de15-6f9c-4724-a00e-ccd00dcc3edb fwd="166.137.208.24" dyno=web.1 connect=2ms service=6ms status=200 bytes=29393
+2014-06-01T18:54:42.639939+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=20ce2c31-4d95-4d84-8bbc-300729b04527 fwd="166.137.208.24" dyno=web.1 connect=2ms service=4ms status=200 bytes=11528
+2014-06-01T18:54:42.658388+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=5133bda1-e367-433e-80e3-f721de6368f6 fwd="166.137.208.24" dyno=web.1 connect=31ms service=9ms status=200 bytes=8703
+2014-06-01T18:54:42.773890+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=468cb08a-e083-4d4a-a294-6781f5fd5745 fwd="166.137.208.24" dyno=web.1 connect=2ms service=6ms status=200 bytes=3009
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m3ms - 28.43kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m1ms - 10.98kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m2ms - 2.66kb[0m
+2014-06-01T18:54:43.132425+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=08398e1b-402c-4a4d-bdeb-7611d9534ce0 fwd="166.137.208.24" dyno=web.1 connect=3ms service=11ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.77kb[0m
+2014-06-01T18:56:06.161270+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=9226bd0d-f29d-4afe-9c34-31cd3c2f5e70 fwd="70.197.3.168" dyno=web.1 connect=10ms service=18ms status=200 bytes=4203
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   questions: 
+    [ { index: 1,
+        yes: 3,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 3 },
+        no: 4 } ],
+      { index: 2,
+        yes: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   _locals: [Function: locals] }
+   category: 'stanford',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   source: 'Stanford Daily',
+   uniqueID: '4',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   details: 
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+      { index: 2,
+        no: 4 } ],
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+        yes: 2,
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   questions: 
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 3,
+    
+    no: 3 },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+ [90mGET /news/4 [32m200 [90m14ms - 3.93kb[0m
+   _locals: [Function: locals] }
+2014-06-01T18:56:06.450364+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=2f36dca4-b869-4982-b3fd-3686e3532add fwd="70.197.3.168" dyno=web.1 connect=1ms service=6ms status=200 bytes=100243
+2014-06-01T18:56:06.603954+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=c72bba4a-0832-48bc-9bef-32873f6a39f4 fwd="70.197.3.168" dyno=web.1 connect=1ms service=4ms status=200 bytes=1588
+2014-06-01T18:56:06.640245+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=0b64c860-10e5-4c13-ad97-5fb34cbe8693 fwd="70.197.3.168" dyno=web.1 connect=2ms service=6ms status=200 bytes=901
+ [90mGET /css/main.css [32m200 [90m2ms - 620b[0m
+ [90mGET /css/bootstrap.min.css [32m200 [90m2ms - 97.62kb[0m
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+2014-06-01T18:56:07.021806+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=17c52557-98d4-43db-99aa-a90310b6a357 fwd="70.197.3.168" dyno=web.1 connect=2ms service=6ms status=200 bytes=29393
+2014-06-01T18:56:07.036786+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=c6224c37-aac2-4985-9b0d-2645dcc36324 fwd="70.197.3.168" dyno=web.1 connect=2ms service=5ms status=200 bytes=11528
+2014-06-01T18:56:07.084166+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=d79ec262-19ca-4880-b7ae-6a9c369bc94e fwd="70.197.3.168" dyno=web.1 connect=2ms service=4ms status=200 bytes=3009
+2014-06-01T18:56:07.266339+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=f60241bc-5124-4ef1-9038-98b04efe5dac fwd="70.197.3.168" dyno=web.1 connect=1ms service=4ms status=200 bytes=23601
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m2ms - 2.66kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m2ms - 10.98kb[0m
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m1ms - 22.77kb[0m
+2014-06-01T18:56:07.378842+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=87e24be8-4492-40c9-a9f0-56f4a77e062b fwd="70.197.3.168" dyno=web.1 connect=2ms service=4ms status=200 bytes=8703
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+2014-06-01T19:57:51.978329+00:00 heroku[web.1]: State changed from up to down
+2014-06-01T19:57:51.978329+00:00 heroku[web.1]: Idling
+2014-06-01T19:57:53.958074+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2014-06-01T19:57:55.518576+00:00 heroku[web.1]: Process exited with status 143
+2014-06-01T20:28:54.074116+00:00 heroku[web.1]: Unidling
+2014-06-01T20:28:54.074429+00:00 heroku[web.1]: State changed from down to starting
+ connect.limit() will be removed in connect 3.0
+ connect.multipart() will be removed in connect 3.0
+ visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+ Express server listening on port 46693
+2014-06-01T20:28:58.413967+00:00 heroku[web.1]: State changed from starting to up
+2014-06-01T20:29:00.237282+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=4b4091e9-c4aa-4a11-9aa5-6433790dcda8 fwd="50.184.145.136" dyno=web.1 connect=3ms service=90ms status=200 bytes=4203
+2014-06-01T20:29:00.418167+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=85152f19-a985-486d-84f3-30805836612f fwd="50.184.145.136" dyno=web.1 connect=2ms service=31ms status=200 bytes=100243
+   source: 'Stanford Daily',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+    [ { index: 1,
+   uniqueID: '4',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 1 },
+        yes: 1,
+        no: 1 } ] }
+   details: 
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   category: 'stanford',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   source: 'Stanford Daily',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        yes: 1,
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+   uniqueID: '4',
+   questions: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   questions: 
+        no: 1 },
+        no: 1 } ] }
+   details: 
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        yes: 1,
+ [90mGET /news/4 [32m200 [90m80ms - 3.93kb[0m
+      { index: 2,
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 1,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+2014-06-01T20:29:00.508625+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=85d85410-7261-44bb-8996-a1b71cf4fed2 fwd="50.184.145.136" dyno=web.1 connect=33ms service=14ms status=200 bytes=29393
+2014-06-01T20:29:00.504103+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=13d84dd5-5a38-4a30-b5c4-f60bde2b00b2 fwd="50.184.145.136" dyno=web.1 connect=39ms service=13ms status=200 bytes=901
+2014-06-01T20:29:00.539887+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=f8b661f2-e97e-423a-8c42-0b4fa3334a08 fwd="50.184.145.136" dyno=web.1 connect=26ms service=28ms status=200 bytes=8703
+2014-06-01T20:29:00.560287+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=e3e27e14-357c-454b-b122-fbc61c0b80a9 fwd="50.184.145.136" dyno=web.1 connect=26ms service=53ms status=200 bytes=11528
+2014-06-01T20:29:00.569994+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=7cd2c560-3baf-4ed5-bed9-c7401e9fd636 fwd="50.184.145.136" dyno=web.1 connect=33ms service=31ms status=200 bytes=1588
+2014-06-01T20:29:00.624147+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=19b13543-ae7d-4ef6-bf4b-29926a03b929 fwd="50.184.145.136" dyno=web.1 connect=2ms service=7ms status=200 bytes=3009
+ [90mGET /css/bootstrap.min.css [32m200 [90m14ms - 97.62kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m7ms - 28.43kb[0m
+ [90mGET /css/newsItem.css [32m200 [90m3ms - 1.27kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m3ms - 8.22kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m3ms - 10.98kb[0m
+ [90mGET /css/main.css [32m200 [90m6ms - 620b[0m
+ [90mGET /js/newsItem.js [32m200 [90m4ms - 2.66kb[0m
+2014-06-01T20:29:01.450283+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=cc604517-970a-4c44-ac34-fe9f12e69e35 fwd="50.184.145.136" dyno=web.1 connect=2ms service=8ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m3ms - 22.77kb[0m
+2014-06-01T20:29:01.759953+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=b725f06f-4be2-441d-acb2-3ed6a2251539 fwd="50.184.145.136" dyno=web.1 connect=6ms service=10ms status=200 bytes=1634
+2014-06-01T20:28:56.854930+00:00 heroku[web.1]: Starting process with command `node app.js`
+2014-06-01T20:39:49.604309+00:00 heroku[router]: at=info method=GET path=/datadump host=intheknow.herokuapp.com request_id=0f6a1b8c-884b-40ee-9f35-7c0726f9e7e0 fwd="128.12.246.16" dyno=web.1 connect=49ms service=10ms status=200 bytes=6603
+ [90mGET /datadump [32m200 [90m4ms - 6.27kb[0m
+2014-06-01T20:51:55.642032+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=6a49dfad-eaf5-491a-b8a7-84085364ef21 fwd="128.12.246.16" dyno=web.1 connect=1ms service=15ms status=200 bytes=4203
+2014-06-01T20:51:55.846133+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=5f98ebf2-c802-458c-8746-1cc4f704af65 fwd="128.12.246.16" dyno=web.1 connect=1ms service=4ms status=304 bytes=231
+   category: 'stanford',
+   source: 'Stanford Daily',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+        yes: 1,
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+        no: 1 },
+      { index: 2,
+   uniqueID: '4',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   questions: 
+    [ { index: 1,
+   details: 
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        yes: 1,
+   category: 'stanford',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   details: 
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+        no: 1 } ],
+        text: 'Should students have petitioned against the foundation\'s investment?',
+   uniqueID: '4',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 1 },
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commenc
+ement ceremony?',
+        yes: 1,
+        no: 1 } ],
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   _locals: [Function: locals] }
+   _locals: [Function: locals] }
+ [90mGET /news/4 [32m200 [90m14ms - 3.93kb[0m
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   questions: 
+        yes: 1,
+ [90mGET /css/main.css [36m304 [90m3ms[0m
+2014-06-01T20:51:55.930550+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=16f3c88a-df02-42aa-af6e-4b6a834199eb fwd="128.12.246.16" dyno=web.1 connect=0ms service=3ms status=304 bytes=230
+2014-06-01T20:51:55.925559+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=8793193b-3980-4a63-aa44-ec3f909fc93c fwd="128.12.246.16" dyno=web.1 connect=0ms service=4ms status=304 bytes=231
+2014-06-01T20:51:55.924517+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=cf2d5570-7b21-43e7-9a00-a86e2575986f fwd="128.12.246.16" dyno=web.1 connect=0ms service=3ms status=304 bytes=232
+2014-06-01T20:51:55.932448+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=009911cf-6465-47ea-81cd-94da94c1b4a4 fwd="128.12.246.16" dyno=web.1 connect=1ms service=4ms status=304 bytes=232
+2014-06-01T20:51:55.938534+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=f0242fe1-1e0d-4e26-99b0-f48fa13802b1 fwd="128.12.246.16" dyno=web.1 connect=2ms service=4ms status=304 bytes=232
+2014-06-01T20:51:55.962688+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=84e0c6b2-0c33-4315-ac5f-431716dfe3a3 fwd="128.12.246.16" dyno=web.1 connect=5ms service=17ms status=304 bytes=232
+ [90mGET /css/newsItem.css [36m304 [90m1ms[0m
+ [90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+ [90mGET /js/modernizr.js [36m304 [90m1ms[0m
+ [90mGET /js/newsItem.js [36m304 [90m1ms[0m
+ [90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+ [90mGET /js/bootstrap-slider.js [36m304 [90m0ms[0m
+2014-06-01T20:51:56.671512+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=13066e89-0eec-404b-8f19-0aa81b74df40 fwd="128.12.246.16" dyno=web.1 connect=1ms service=4ms status=304 bytes=231
+ [90mGET /fonts/glyphicons-halflings-regular.woff [36m304 [90m2ms[0m
+2014-06-01T21:54:33.359504+00:00 heroku[web.1]: Idling
+2014-06-01T21:54:33.360396+00:00 heroku[web.1]: State changed from up to down
+2014-06-01T21:54:36.891414+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2014-06-01T21:54:39.286804+00:00 heroku[web.1]: Process exited with status 143
+2014-06-01T22:15:03.604400+00:00 heroku[web.1]: Unidling
+2014-06-01T22:15:03.604752+00:00 heroku[web.1]: State changed from down to starting
+ connect.multipart() will be removed in connect 3.0
+ connect.limit() will be removed in connect 3.0
+ visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+ Express server listening on port 56760
+2014-06-01T22:15:07.842651+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=ffca2c83-7e6f-4b65-8931-b96474b56085 fwd="128.12.246.16" dyno=web.1 connect=5ms service=57ms status=200 bytes=4203
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   uniqueID: '4',
+   source: 'Stanford Daily',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+    [ { index: 1,
+   questions: 
+        yes: 1,
+        no: 1 },
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+        yes: 1,
+        no: 1 } ] }
+   source: 'Stanford Daily',
+   category: 'stanford',
+   uniqueID: '4',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+        yes: 1,
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        text: 'Should students have petitioned against the foundation\'s investment?',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+        text: 'Should students have petitioned against the foundation\'s investment?',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+        no: 1 } ] }
+   questions: 
+ [90mGET /news/4 [32m200 [90m47ms - 3.93kb[0m
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+      { index: 2,
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   details: 
+    [ { index: 1,
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+        yes: 1,
+        no: 1 },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+2014-06-01T22:15:08.267096+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=6776d8e4-218b-40be-8cc6-1f580888352a fwd="128.12.246.16" dyno=web.1 connect=2ms service=6ms status=200 bytes=901
+2014-06-01T22:15:08.236388+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=713c61d0-12d2-415b-8abb-b70e9189ab90 fwd="128.12.246.16" dyno=web.1 connect=13ms service=43ms status=200 bytes=100243
+2014-06-01T22:15:08.328750+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=9f582086-43c9-4a72-96b8-c23d31458448 fwd="128.12.246.16" dyno=web.1 connect=3ms service=6ms status=200 bytes=8703
+2014-06-01T22:15:08.350857+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=3f6fba95-f4a4-46bd-aeed-7085bb659aa9 fwd="128.12.246.16" dyno=web.1 connect=11ms service=24ms status=200 bytes=29393
+2014-06-01T22:15:08.363333+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=bbe359fe-93a3-462d-83f2-f8468bb9a2cb fwd="128.12.246.16" dyno=web.1 connect=8ms service=20ms status=200 bytes=11528
+2014-06-01T22:15:08.356942+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=65005cb3-2d40-4981-90e8-0099b51cda85 fwd="128.12.246.16" dyno=web.1 connect=28ms service=17ms status=200 bytes=1588
+ [90mGET /css/bootstrap.min.css [32m200 [90m9ms - 97.62kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m2ms - 28.43kb[0m
+ [90mGET /css/main.css [32m200 [90m2ms - 620b[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m2ms - 10.98kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m2ms - 2.66kb[0m
+2014-06-01T22:15:08.510307+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=1f76d10d-7892-4b45-bebb-6dc1c7a43531 fwd="128.12.246.16" dyno=web.1 connect=7ms service=6ms status=200 bytes=3009
+2014-06-01T22:15:07.306926+00:00 heroku[web.1]: State changed from starting to up
+2014-06-01T22:15:09.145611+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=e7c964cf-c373-431f-8ef6-21891c506afc fwd="128.12.246.16" dyno=web.1 connect=12ms service=79ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m3ms - 22.77kb[0m
+2014-06-01T22:15:09.466966+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=e4048194-f519-4d0a-9860-b9550a8dd8b4 fwd="128.12.246.16" dyno=web.1 connect=9ms service=16ms status=200 bytes=1634
+2014-06-01T22:15:05.587075+00:00 heroku[web.1]: Starting process with command `node app.js`
+2014-06-01T22:22:57.972140+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=3dca89b0-ae84-4687-ab33-bb7808d33a0f fwd="128.12.244.132" dyno=web.1 connect=14ms service=16ms status=200 bytes=4203
+2014-06-01T22:22:58.145292+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=8b07a473-576b-4400-9803-ca4e05acfbb0 fwd="128.12.244.132" dyno=web.1 connect=11ms service=13ms status=200 bytes=100243
+2014-06-01T22:22:58.171499+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=13ee718a-def2-4710-9969-262ea4609aaa fwd="128.12.244.132" dyno=web.1 connect=1ms service=6ms status=200 bytes=11528
+2014-06-01T22:22:58.167254+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=cd4c1ddf-6e0c-4091-9572-c0195335ed20 fwd="128.12.244.132" dyno=web.1 connect=2ms service=8ms status=200 bytes=29393
+2014-06-01T22:22:58.172788+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=e1e2a16b-8d5d-4cab-8790-c0241f914eff fwd="128.12.244.132" dyno=web.1 connect=1ms service=6ms status=200 bytes=8703
+2014-06-01T22:22:58.151807+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=853134b4-8afa-427b-9782-ac4eeb681b9e fwd="128.12.244.132" dyno=web.1 connect=1ms service=3ms status=200 bytes=1588
+   source: 'Stanford Daily',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+    [ { index: 1,
+   uniqueID: '4',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   details: 
+   questions: 
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+        text: 'Should students have petitioned against the foundation\'s investment?',
+      { index: 2,
+        no: 1 },
+        yes: 1,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        yes: 1,
+        no: 1 } ],
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   
+category: 'stanford',
+   _locals: [Function: locals] }
+   uniqueID: '4',
+   source: 'Stanford Daily',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+    [ { index: 1,
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+   details: 
+      { index: 2,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        no: 1 } ],
+        yes: 1,
+        yes: 1,
+ [90mGET /news/4 [32m200 [90m14ms - 3.93kb[0m
+   questions: 
+        no: 1 },
+ [90mGET /css/newsItem.css [32m200 [90m1ms - 1.27kb[0m
+   _locals: [Function: locals] }
+2014-06-01T22:22:58.245257+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=e81b6baa-74c8-4954-91c2-dfe2d35d9bd6 fwd="128.12.244.132" dyno=web.1 connect=9ms service=16ms status=200 bytes=901
+2014-06-01T22:22:58.365556+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=b40fd8db-14e0-413a-9dcd-7f79ecbd943a fwd="128.12.244.132" dyno=web.1 connect=15ms service=66ms status=200 bytes=3009
+ [90mGET /js/bootstrap.min.js [32m200 [90m4ms - 28.43kb[0m
+ [90mGET /css/bootstrap.min.css [32m200 [90m5ms - 97.62kb[0m
+ [90mGET /js/modernizr.js [32m200 [90m4ms - 8.22kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m3ms - 10.98kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+ [90mGET /js/newsItem.js [32m200 [90m3ms - 2.66kb[0m
+2014-06-01T22:22:58.787317+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=ae509b1e-42ac-4bf2-b4db-ca6086d7ef44 fwd="128.12.244.132" dyno=web.1 connect=1ms service=6ms status=200 bytes=23601
+2014-06-01T22:22:58.981308+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=455ed77d-5672-4adf-9b65-03a190dc381f fwd="128.12.244.132" dyno=web.1 connect=1ms service=3ms status=200 bytes=1634
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m4ms - 22.77kb[0m
+2014-06-01T22:46:01.068169+00:00 heroku[router]: at=info method=GET path=/datadump host=intheknow.herokuapp.com request_id=46f776d8-d4ef-4cef-bfbf-313c59bcf122 fwd="128.12.246.16" dyno=web.1 connect=12ms service=9ms status=200 bytes=6603
+ [90mGET /datadump [32m200 [90m2ms - 6.27kb[0m
+2014-06-01T22:55:06.997054+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=1622b34b-2868-4bb4-878a-2b8f83bec7df fwd="128.12.246.16" dyno=web.1 connect=1ms service=41ms status=200 bytes=4203
+   category: 'stanford',
+   source: 'Stanford Daily',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   uniqueID: '4',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   details: 
+   questions: 
+    [ { index: 1,
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+   _locals: [Function: locals] }
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+        yes: 1,
+        no: 1 },
+   _locals: [Function: locals] }
+        yes: 1,
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+   uniqueID: '4',
+        no: 1 } ],
+   category: 'stanford',
+   questions: 
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { index: 2,
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+        text: 'Should students have petitioned against the foundation\'s investment?',
+   details: 
+        yes: 1,
+      { index: 2,
+        no: 1 } ],
+        yes: 1,
+   source: 'Stanford Daily',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+    [ { index: 1,
+        no: 1 },
+ [90mGET /news/4 [32m200 [90m38ms - 3.93kb[0m
+2014-06-01T22:55:07.270968+00:00 heroku[router]: at=info method=GET path=/css/bootstrap.min.css host=intheknow.herokuapp.com request_id=2a03f350-cb4f-49e2-903c-45a81984f77e fwd="128.12.246.16" dyno=web.1 connect=9ms service=26ms status=200 bytes=100243
+2014-06-01T22:55:07.302193+00:00 heroku[router]: at=info method=GET path=/css/main.css host=intheknow.herokuapp.com request_id=2b3c0c5b-f135-4c81-ba29-4d590e3b429b fwd="128.12.246.16" dyno=web.1 connect=3ms service=5ms status=200 bytes=901
+2014-06-01T22:55:07.314148+00:00 heroku[router]: at=info method=GET path=/css/newsItem.css host=intheknow.herokuapp.com request_id=5d760f04-3eba-4824-adbb-dd7ffcf0a846 fwd="128.12.246.16" dyno=web.1 connect=2ms service=5ms status=200 bytes=1588
+ [90mGET /css/bootstrap.min.css [32m200 [90m17ms - 97.62kb[0m
+ [90mGET /css/newsItem.css [32m200 [90m2ms - 1.27kb[0m
+ [90mGET /css/main.css [32m200 [90m1ms - 620b[0m
+2014-06-01T22:55:09.254560+00:00 heroku[router]: at=info method=GET path=/js/newsItem.js host=intheknow.herokuapp.com request_id=c88554e6-c2f7-4fea-803b-c7383b59fc06 fwd="128.12.246.16" dyno=web.1 connect=2ms service=7ms status=200 bytes=3009
+2014-06-01T22:55:09.249557+00:00 heroku[router]: at=info method=GET path=/js/modernizr.js host=intheknow.herokuapp.com request_id=0a128512-f498-4948-ad3b-6153dd7a697a fwd="128.12.246.16" dyno=web.1 connect=3ms service=6ms status=200 bytes=8703
+2014-06-01T22:55:09.272898+00:00 heroku[router]: at=info method=GET path=/js/bootstrap.min.js host=intheknow.herokuapp.com request_id=7bbe207b-7e36-4f63-a829-48af545078fa fwd="128.12.246.16" dyno=web.1 connect=9ms service=11ms status=200 bytes=29393
+2014-06-01T22:55:09.323368+00:00 heroku[router]: at=info method=GET path=/js/bootstrap-slider.js host=intheknow.herokuapp.com request_id=7a68912a-5806-42f5-896d-86dad1c288a8 fwd="128.12.246.16" dyno=web.1 connect=2ms service=5ms status=200 bytes=11528
+ [90mGET /js/modernizr.js [32m200 [90m1ms - 8.22kb[0m
+ [90mGET /js/bootstrap-slider.js [32m200 [90m2ms - 10.98kb[0m
+ [90mGET /js/newsItem.js [32m200 [90m2ms - 2.66kb[0m
+ [90mGET /js/bootstrap.min.js [32m200 [90m1ms - 28.43kb[0m
+2014-06-01T22:55:09.590210+00:00 heroku[router]: at=info method=GET path=/fonts/glyphicons-halflings-regular.woff host=intheknow.herokuapp.com request_id=0dacae9f-b404-4d47-8f2e-a0a3e1560fa0 fwd="128.12.246.16" dyno=web.1 connect=5ms service=7ms status=200 bytes=23601
+ [90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m1ms - 22.77kb[0m
+2014-06-01T22:55:12.513306+00:00 heroku[router]: at=info method=GET path=/favicon.ico host=intheknow.herokuapp.com request_id=febe4e81-d536-4167-9bf6-f635797ecdd9 fwd="128.12.246.16" dyno=web.1 connect=2ms service=9ms status=200 bytes=1634
+2014-06-01T23:13:12.040453+00:00 heroku[router]: at=info method=GET path=/news/4 host=intheknow.herokuapp.com request_id=761042c5-9813-4165-b183-4b95b2ec147b fwd="54.198.116.226" dyno=web.1 connect=11ms service=10ms status=200 bytes=4203
+   category: 'stanford',
+   uniqueID: '4',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   source: 'Stanford Daily',
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+   details: 
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to below 3 percent, below the threshold mandating investment declaration' } ],
+   questions: 
+    [ { index: 1,
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        yes: 1,
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+        no: 1 },
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
+        yes: 1,
+      { index: 2,
+        no: 1 } ],
+   _locals: [Function: locals] }
+   summary: 'Stanford is developing a satellite campus in Redwood City',
+ { title: 'Stanford students petition against Gates Foundation\'s investment in controversial security firm G4S',
+   category: 'stanford',
+   link: 'http://www.stanforddaily.com/2014/05/30/students-respond-to-alleged-human-rights-abuses-of-gates-foundation-company/',
+   image: 'http://57vje3fqw032jqgx93yq531jak.wpengine.netdna-cdn.com/wp-content/uploads/2014/05/SatelliteCampus-300x194.jpg',
+   details: 
+    [ { text: 'Bill and Melinda Gates are the 2014 commencement speakers' },
+      { text: 'The Gates Foundation has an investment in security firm G4S which has been accused of multiple human right abuses' },
+   uniqueID: '4',
+   source: 'Stanford Daily',
+      { text: 'A coalition of students petitioned against the foundation\'s investment in the firm' },
+      { text: 'In response, Gates has sold down his stake in G4S to b
+elow 3 percent, below the threshold mandating investment declaration' } ],
+   questions: 
+        text: 'Should students have petitioned against the foundation\'s investment?',
+        no: 1 },
+        yes: 1,
+        yes: 1,
+        no: 1 } ],
+   _locals: [Function: locals] }
+      { index: 2,
+    [ { index: 1,
+ [90mGET /news/4 [32m200 [90m8ms - 3.93kb[0m
+        text: 'Does the foundation\'s investment in G4S affect the commencement ceremony?',
