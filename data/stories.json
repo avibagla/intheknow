@@ -174,14 +174,20 @@
                 {
                     "index": 1,
                     "text": "Should students have petitioned against the foundation's investment?",
-                    "yes": 1,
-                    "no": 1
+                    "yes": 57,
+                    "no": 25
                 },
                 {
                     "index": 2,
                     "text": "Does the foundation's investment in G4S affect the commencement ceremony?",
-                    "yes": 1,
-                    "no": 1
+                    "yes": 16,
+                    "no": 53
+                },
+                {
+                    "index": 3,
+                    "text": "Should the Gates fully divest from G4S?",
+                    "yes": 4,
+                    "no": 7
                 }
             ]
         }
